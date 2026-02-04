@@ -1,0 +1,1990 @@
+{
+  "stats" : [ {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "CÂMERA LENTA",
+      "streamCount" : 6,
+      "secondsPlayed" : 877
+    }, {
+      "name" : "Black",
+      "streamCount" : 3,
+      "secondsPlayed" : 717
+    }, {
+      "name" : "Tipping Point",
+      "streamCount" : 3,
+      "secondsPlayed" : 655
+    }, {
+      "name" : "JAPONÊS",
+      "streamCount" : 3,
+      "secondsPlayed" : 576
+    }, {
+      "name" : "Ride The Lightning (Bonus Track)",
+      "streamCount" : 2,
+      "secondsPlayed" : 188
+    }, {
+      "name" : "Invisível pt.2",
+      "streamCount" : 2,
+      "secondsPlayed" : 348
+    }, {
+      "name" : "TENTAR SER BREVE \uD83E\uDD37\uD83C\uDFFE‍♀️",
+      "streamCount" : 2,
+      "secondsPlayed" : 446
+    }, {
+      "name" : "04AM",
+      "streamCount" : 2,
+      "secondsPlayed" : 398
+    }, {
+      "name" : "Walk",
+      "streamCount" : 2,
+      "secondsPlayed" : 358
+    }, {
+      "name" : "Imagina esse Cenário",
+      "streamCount" : 2,
+      "secondsPlayed" : 300
+    } ],
+    "topArtists" : [ {
+      "name" : "Megadeth",
+      "streamCount" : 11,
+      "secondsPlayed" : 1677
+    }, {
+      "name" : "Nagalli",
+      "streamCount" : 10,
+      "secondsPlayed" : 1510
+    }, {
+      "name" : "Matuê",
+      "streamCount" : 8,
+      "secondsPlayed" : 1308
+    }, {
+      "name" : "Veigh",
+      "streamCount" : 9,
+      "secondsPlayed" : 1457
+    }, {
+      "name" : "Supernova Ent",
+      "streamCount" : 11,
+      "secondsPlayed" : 1579
+    }, {
+      "name" : "Brandão85",
+      "streamCount" : 4,
+      "secondsPlayed" : 740
+    }, {
+      "name" : "Ryu, The Runner",
+      "streamCount" : 8,
+      "secondsPlayed" : 1086
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 3,
+      "secondsPlayed" : 717
+    }, {
+      "name" : "CJota",
+      "streamCount" : 4,
+      "secondsPlayed" : 503
+    }, {
+      "name" : "KayBlack",
+      "streamCount" : 3,
+      "secondsPlayed" : 591
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-12",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "CÂMERA LENTA",
+      "streamCount" : 6,
+      "secondsPlayed" : 987
+    }, {
+      "name" : "Black",
+      "streamCount" : 4,
+      "secondsPlayed" : 1368
+    }, {
+      "name" : "CONFISSÕES PT2",
+      "streamCount" : 4,
+      "secondsPlayed" : 519
+    }, {
+      "name" : "Invisível pt.2",
+      "streamCount" : 3,
+      "secondsPlayed" : 449
+    }, {
+      "name" : "JAPONÊS",
+      "streamCount" : 3,
+      "secondsPlayed" : 334
+    }, {
+      "name" : "Alive",
+      "streamCount" : 2,
+      "secondsPlayed" : 595
+    }, {
+      "name" : "FYE",
+      "streamCount" : 2,
+      "secondsPlayed" : 302
+    }, {
+      "name" : "TENTAR SER BREVE \uD83E\uDD37\uD83C\uDFFE‍♀️",
+      "streamCount" : 2,
+      "secondsPlayed" : 446
+    }, {
+      "name" : "DAMN!",
+      "streamCount" : 2,
+      "secondsPlayed" : 158
+    }, {
+      "name" : "Tornado Of Souls - 2004 Remix",
+      "streamCount" : 1,
+      "secondsPlayed" : 318
+    } ],
+    "topArtists" : [ {
+      "name" : "Nagalli",
+      "streamCount" : 15,
+      "secondsPlayed" : 2160
+    }, {
+      "name" : "Veigh",
+      "streamCount" : 17,
+      "secondsPlayed" : 2421
+    }, {
+      "name" : "Ryu, The Runner",
+      "streamCount" : 13,
+      "secondsPlayed" : 1672
+    }, {
+      "name" : "Supernova Ent",
+      "streamCount" : 19,
+      "secondsPlayed" : 2617
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 6,
+      "secondsPlayed" : 1963
+    }, {
+      "name" : "KayBlack",
+      "streamCount" : 7,
+      "secondsPlayed" : 1064
+    }, {
+      "name" : "Megadeth",
+      "streamCount" : 3,
+      "secondsPlayed" : 691
+    }, {
+      "name" : "Brandão85",
+      "streamCount" : 3,
+      "secondsPlayed" : 334
+    }, {
+      "name" : "Matuê",
+      "streamCount" : 4,
+      "secondsPlayed" : 564
+    }, {
+      "name" : "Niink",
+      "streamCount" : 4,
+      "secondsPlayed" : 486
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-05",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Smells Like Teen Spirit - Remastered",
+      "streamCount" : 4,
+      "secondsPlayed" : 1204
+    }, {
+      "name" : "Black",
+      "streamCount" : 4,
+      "secondsPlayed" : 1116
+    }, {
+      "name" : "Tornado Of Souls - 2004 Remix",
+      "streamCount" : 3,
+      "secondsPlayed" : 707
+    }, {
+      "name" : "Heart-Shaped Box",
+      "streamCount" : 3,
+      "secondsPlayed" : 765
+    }, {
+      "name" : "The Trooper - 2015 Remaster",
+      "streamCount" : 3,
+      "secondsPlayed" : 756
+    }, {
+      "name" : "Master Of Puppets",
+      "streamCount" : 3,
+      "secondsPlayed" : 1489
+    }, {
+      "name" : "Wasting Love - 2015 Remaster",
+      "streamCount" : 3,
+      "secondsPlayed" : 1053
+    }, {
+      "name" : "Toxicity",
+      "streamCount" : 3,
+      "secondsPlayed" : 445
+    }, {
+      "name" : "Something In The Way - Remastered",
+      "streamCount" : 2,
+      "secondsPlayed" : 183
+    }, {
+      "name" : "One",
+      "streamCount" : 2,
+      "secondsPlayed" : 785
+    } ],
+    "topArtists" : [ {
+      "name" : "Nirvana",
+      "streamCount" : 21,
+      "secondsPlayed" : 4230
+    }, {
+      "name" : "Korn",
+      "streamCount" : 17,
+      "secondsPlayed" : 3622
+    }, {
+      "name" : "Metallica",
+      "streamCount" : 13,
+      "secondsPlayed" : 4572
+    }, {
+      "name" : "System Of A Down",
+      "streamCount" : 13,
+      "secondsPlayed" : 2430
+    }, {
+      "name" : "Iron Maiden",
+      "streamCount" : 9,
+      "secondsPlayed" : 2990
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 5,
+      "secondsPlayed" : 1331
+    }, {
+      "name" : "Megadeth",
+      "streamCount" : 4,
+      "secondsPlayed" : 953
+    }, {
+      "name" : "Docaos",
+      "streamCount" : 4,
+      "secondsPlayed" : 665
+    }, {
+      "name" : "ANGRA",
+      "streamCount" : 3,
+      "secondsPlayed" : 1068
+    }, {
+      "name" : "Black Sabbath",
+      "streamCount" : 3,
+      "secondsPlayed" : 887
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01",
+    "streamCount" : 366,
+    "secondsPlayed" : 73702,
+    "topTracks" : [ {
+      "name" : "Black",
+      "streamCount" : 14,
+      "secondsPlayed" : 4227
+    }, {
+      "name" : "CÂMERA LENTA",
+      "streamCount" : 12,
+      "secondsPlayed" : 1864
+    }, {
+      "name" : "Symphony Of Destruction - Remastered 2012",
+      "streamCount" : 9,
+      "secondsPlayed" : 1751
+    }, {
+      "name" : "Tornado Of Souls - 2004 Remix",
+      "streamCount" : 7,
+      "secondsPlayed" : 1798
+    }, {
+      "name" : "Come As You Are - Remastered",
+      "streamCount" : 7,
+      "secondsPlayed" : 1127
+    }, {
+      "name" : "Toxicity",
+      "streamCount" : 7,
+      "secondsPlayed" : 1064
+    }, {
+      "name" : "The Trooper - 2015 Remaster",
+      "streamCount" : 6,
+      "secondsPlayed" : 1290
+    }, {
+      "name" : "JAPONÊS",
+      "streamCount" : 6,
+      "secondsPlayed" : 910
+    }, {
+      "name" : "Smells Like Teen Spirit - Remastered",
+      "streamCount" : 5,
+      "secondsPlayed" : 1505
+    }, {
+      "name" : "Invisível pt.2",
+      "streamCount" : 5,
+      "secondsPlayed" : 797
+    } ],
+    "topArtists" : [ {
+      "name" : "Nirvana",
+      "streamCount" : 34,
+      "secondsPlayed" : 6754
+    }, {
+      "name" : "Megadeth",
+      "streamCount" : 33,
+      "secondsPlayed" : 6213
+    }, {
+      "name" : "System Of A Down",
+      "streamCount" : 28,
+      "secondsPlayed" : 4792
+    }, {
+      "name" : "Metallica",
+      "streamCount" : 26,
+      "secondsPlayed" : 6707
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 19,
+      "secondsPlayed" : 5523
+    }, {
+      "name" : "Nagalli",
+      "streamCount" : 25,
+      "secondsPlayed" : 3670
+    }, {
+      "name" : "Korn",
+      "streamCount" : 18,
+      "secondsPlayed" : 3812
+    }, {
+      "name" : "Veigh",
+      "streamCount" : 26,
+      "secondsPlayed" : 3878
+    }, {
+      "name" : "Supernova Ent",
+      "streamCount" : 30,
+      "secondsPlayed" : 4196
+    }, {
+      "name" : "Iron Maiden",
+      "streamCount" : 12,
+      "secondsPlayed" : 3524
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 242,
+      "secondsPlayed" : 55913
+    }, {
+      "name" : "metal",
+      "streamCount" : 143,
+      "secondsPlayed" : 33465
+    }, {
+      "name" : "english rock",
+      "streamCount" : 123,
+      "secondsPlayed" : 30765
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 123,
+      "secondsPlayed" : 30272
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 94,
+      "secondsPlayed" : 23067
+    }, {
+      "name" : "heavy metal",
+      "streamCount" : 67,
+      "secondsPlayed" : 17654
+    }, {
+      "name" : "90s rock",
+      "streamCount" : 72,
+      "secondsPlayed" : 17215
+    }, {
+      "name" : "hard rock",
+      "streamCount" : 69,
+      "secondsPlayed" : 17136
+    }, {
+      "name" : "classic metal",
+      "streamCount" : 62,
+      "secondsPlayed" : 16877
+    }, {
+      "name" : "90s alternative",
+      "streamCount" : 69,
+      "secondsPlayed" : 16368
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 20355
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 20529
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 10600
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 10765
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 7507
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 3933
+    } ]
+  }, {
+    "date" : "2025-12",
+    "streamCount" : 416,
+    "secondsPlayed" : 73590,
+    "topTracks" : [ {
+      "name" : "Black",
+      "streamCount" : 13,
+      "secondsPlayed" : 4321
+    }, {
+      "name" : "JAPONÊS",
+      "streamCount" : 12,
+      "secondsPlayed" : 1957
+    }, {
+      "name" : "indecisão",
+      "streamCount" : 10,
+      "secondsPlayed" : 1784
+    }, {
+      "name" : "Tornado Of Souls - 2004 Remix",
+      "streamCount" : 7,
+      "secondsPlayed" : 2120
+    }, {
+      "name" : "Vou Morrer Com Meu Orgulho",
+      "streamCount" : 7,
+      "secondsPlayed" : 1079
+    }, {
+      "name" : "Bleed The Freak",
+      "streamCount" : 7,
+      "secondsPlayed" : 1624
+    }, {
+      "name" : "TENTAR SER BREVE \uD83E\uDD37\uD83C\uDFFE‍♀️",
+      "streamCount" : 7,
+      "secondsPlayed" : 1404
+    }, {
+      "name" : "CÂMERA LENTA",
+      "streamCount" : 6,
+      "secondsPlayed" : 901
+    }, {
+      "name" : "linda, ciumenta & doida",
+      "streamCount" : 6,
+      "secondsPlayed" : 888
+    }, {
+      "name" : "vestido da vuitton",
+      "streamCount" : 5,
+      "secondsPlayed" : 580
+    } ],
+    "topArtists" : [ {
+      "name" : "CJota",
+      "streamCount" : 93,
+      "secondsPlayed" : 14001
+    }, {
+      "name" : "Matuê",
+      "streamCount" : 46,
+      "secondsPlayed" : 8111
+    }, {
+      "name" : "Supernova Ent",
+      "streamCount" : 64,
+      "secondsPlayed" : 9409
+    }, {
+      "name" : "G.A",
+      "streamCount" : 47,
+      "secondsPlayed" : 7182
+    }, {
+      "name" : "Veigh",
+      "streamCount" : 49,
+      "secondsPlayed" : 7737
+    }, {
+      "name" : "Ryu, The Runner",
+      "streamCount" : 38,
+      "secondsPlayed" : 5675
+    }, {
+      "name" : "Alice In Chains",
+      "streamCount" : 20,
+      "secondsPlayed" : 4902
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 19,
+      "secondsPlayed" : 5254
+    }, {
+      "name" : "Brandão85",
+      "streamCount" : 19,
+      "secondsPlayed" : 3435
+    }, {
+      "name" : "Megadeth",
+      "streamCount" : 17,
+      "secondsPlayed" : 4031
+    } ],
+    "topGenres" : [ {
+      "name" : "trap",
+      "streamCount" : 223,
+      "secondsPlayed" : 39005
+    }, {
+      "name" : "rock",
+      "streamCount" : 101,
+      "secondsPlayed" : 22484
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 59,
+      "secondsPlayed" : 14998
+    }, {
+      "name" : "grunge",
+      "streamCount" : 47,
+      "secondsPlayed" : 11844
+    }, {
+      "name" : "metal",
+      "streamCount" : 50,
+      "secondsPlayed" : 11782
+    }, {
+      "name" : "english rock",
+      "streamCount" : 50,
+      "secondsPlayed" : 11758
+    }, {
+      "name" : "90s rock",
+      "streamCount" : 33,
+      "secondsPlayed" : 8869
+    }, {
+      "name" : "90s alternative",
+      "streamCount" : 30,
+      "secondsPlayed" : 8003
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 32,
+      "secondsPlayed" : 6591
+    }, {
+      "name" : "thrash metal",
+      "streamCount" : 21,
+      "secondsPlayed" : 5438
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 14495
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 13620
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 11052
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 32495
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 710
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 1203
+    } ]
+  }, {
+    "date" : "2025-11",
+    "streamCount" : 523,
+    "secondsPlayed" : 101831,
+    "topTracks" : [ {
+      "name" : "Bleed The Freak",
+      "streamCount" : 13,
+      "secondsPlayed" : 2952
+    }, {
+      "name" : "Tornado Of Souls - 2004 Remix",
+      "streamCount" : 11,
+      "secondsPlayed" : 3009
+    }, {
+      "name" : "Freak",
+      "streamCount" : 9,
+      "secondsPlayed" : 1864
+    }, {
+      "name" : "Black",
+      "streamCount" : 8,
+      "secondsPlayed" : 2295
+    }, {
+      "name" : "Angels Cry",
+      "streamCount" : 6,
+      "secondsPlayed" : 2013
+    }, {
+      "name" : "CAROLINA",
+      "streamCount" : 6,
+      "secondsPlayed" : 554
+    }, {
+      "name" : "It's All Over",
+      "streamCount" : 6,
+      "secondsPlayed" : 1220
+    }, {
+      "name" : "DISCOVERY",
+      "streamCount" : 6,
+      "secondsPlayed" : 846
+    }, {
+      "name" : "No Pole",
+      "streamCount" : 6,
+      "secondsPlayed" : 1116
+    }, {
+      "name" : "Lonely Day",
+      "streamCount" : 6,
+      "secondsPlayed" : 1002
+    } ],
+    "topArtists" : [ {
+      "name" : "Alee",
+      "streamCount" : 43,
+      "secondsPlayed" : 5406
+    }, {
+      "name" : "System Of A Down",
+      "streamCount" : 34,
+      "secondsPlayed" : 5937
+    }, {
+      "name" : "Alice In Chains",
+      "streamCount" : 33,
+      "secondsPlayed" : 7327
+    }, {
+      "name" : "Megadeth",
+      "streamCount" : 29,
+      "secondsPlayed" : 6434
+    }, {
+      "name" : "Nirvana",
+      "streamCount" : 26,
+      "secondsPlayed" : 5591
+    }, {
+      "name" : "Silverchair",
+      "streamCount" : 26,
+      "secondsPlayed" : 4835
+    }, {
+      "name" : "Don Toliver",
+      "streamCount" : 27,
+      "secondsPlayed" : 4429
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 21,
+      "secondsPlayed" : 5564
+    }, {
+      "name" : "ANGRA",
+      "streamCount" : 20,
+      "secondsPlayed" : 5013
+    }, {
+      "name" : "CJota",
+      "streamCount" : 21,
+      "secondsPlayed" : 3019
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 197,
+      "secondsPlayed" : 48173
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 113,
+      "secondsPlayed" : 29419
+    }, {
+      "name" : "grunge",
+      "streamCount" : 103,
+      "secondsPlayed" : 24760
+    }, {
+      "name" : "metal",
+      "streamCount" : 88,
+      "secondsPlayed" : 23320
+    }, {
+      "name" : "english rock",
+      "streamCount" : 89,
+      "secondsPlayed" : 22629
+    }, {
+      "name" : "trap",
+      "streamCount" : 132,
+      "secondsPlayed" : 21505
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 79,
+      "secondsPlayed" : 20607
+    }, {
+      "name" : "90s alternative",
+      "streamCount" : 68,
+      "secondsPlayed" : 16099
+    }, {
+      "name" : "90s rock",
+      "streamCount" : 65,
+      "secondsPlayed" : 15699
+    }, {
+      "name" : "post-grunge",
+      "streamCount" : 62,
+      "secondsPlayed" : 14461
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 15234
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 24095
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 14316
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 41896
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 1490
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 4773
+    } ]
+  }, {
+    "date" : "2025-10",
+    "streamCount" : 686,
+    "secondsPlayed" : 125604,
+    "topTracks" : [ {
+      "name" : "Bleed The Freak",
+      "streamCount" : 11,
+      "secondsPlayed" : 2218
+    }, {
+      "name" : "CÂMERA LENTA",
+      "streamCount" : 9,
+      "secondsPlayed" : 1234
+    }, {
+      "name" : "333",
+      "streamCount" : 8,
+      "secondsPlayed" : 2180
+    }, {
+      "name" : "Freak",
+      "streamCount" : 8,
+      "secondsPlayed" : 1549
+    }, {
+      "name" : "Rape Me",
+      "streamCount" : 8,
+      "secondsPlayed" : 1189
+    }, {
+      "name" : "Isso é Sério",
+      "streamCount" : 7,
+      "secondsPlayed" : 1994
+    }, {
+      "name" : "Castlevania",
+      "streamCount" : 7,
+      "secondsPlayed" : 1539
+    }, {
+      "name" : "DAMN!",
+      "streamCount" : 7,
+      "secondsPlayed" : 942
+    }, {
+      "name" : "Come As You Are - Remastered",
+      "streamCount" : 7,
+      "secondsPlayed" : 1142
+    }, {
+      "name" : "All Apologies",
+      "streamCount" : 7,
+      "secondsPlayed" : 1243
+    } ],
+    "topArtists" : [ {
+      "name" : "Nirvana",
+      "streamCount" : 94,
+      "secondsPlayed" : 18412
+    }, {
+      "name" : "Matuê",
+      "streamCount" : 85,
+      "secondsPlayed" : 17231
+    }, {
+      "name" : "Veigh",
+      "streamCount" : 96,
+      "secondsPlayed" : 14232
+    }, {
+      "name" : "Supernova Ent",
+      "streamCount" : 89,
+      "secondsPlayed" : 12847
+    }, {
+      "name" : "Alee",
+      "streamCount" : 49,
+      "secondsPlayed" : 6800
+    }, {
+      "name" : "Ryu, The Runner",
+      "streamCount" : 64,
+      "secondsPlayed" : 9452
+    }, {
+      "name" : "CJota",
+      "streamCount" : 46,
+      "secondsPlayed" : 7335
+    }, {
+      "name" : "Silverchair",
+      "streamCount" : 36,
+      "secondsPlayed" : 6319
+    }, {
+      "name" : "Racionais MC's",
+      "streamCount" : 24,
+      "secondsPlayed" : 7200
+    }, {
+      "name" : "System Of A Down",
+      "streamCount" : 24,
+      "secondsPlayed" : 4219
+    } ],
+    "topGenres" : [ {
+      "name" : "trap",
+      "streamCount" : 349,
+      "secondsPlayed" : 61095
+    }, {
+      "name" : "rock",
+      "streamCount" : 223,
+      "secondsPlayed" : 49245
+    }, {
+      "name" : "grunge",
+      "streamCount" : 154,
+      "secondsPlayed" : 32547
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 114,
+      "secondsPlayed" : 27457
+    }, {
+      "name" : "english rock",
+      "streamCount" : 111,
+      "secondsPlayed" : 26245
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 81,
+      "secondsPlayed" : 20700
+    }, {
+      "name" : "90s rock",
+      "streamCount" : 92,
+      "secondsPlayed" : 20504
+    }, {
+      "name" : "90s alternative",
+      "streamCount" : 91,
+      "secondsPlayed" : 19549
+    }, {
+      "name" : "post-grunge",
+      "streamCount" : 82,
+      "secondsPlayed" : 16558
+    }, {
+      "name" : "metal",
+      "streamCount" : 53,
+      "secondsPlayed" : 12873
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "night",
+      "secondsPlayed" : 4686
+    }, {
+      "period" : "late_evening",
+      "secondsPlayed" : 24751
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 30501
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 853
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 64787
+    } ]
+  }, {
+    "date" : "2025-09",
+    "streamCount" : 927,
+    "secondsPlayed" : 163273,
+    "topTracks" : [ {
+      "name" : "CAROLINA",
+      "streamCount" : 16,
+      "secondsPlayed" : 1886
+    }, {
+      "name" : "ATRIZ",
+      "streamCount" : 15,
+      "secondsPlayed" : 1797
+    }, {
+      "name" : "MEU MUNDO",
+      "streamCount" : 11,
+      "secondsPlayed" : 1817
+    }, {
+      "name" : "Suicidal Dream",
+      "streamCount" : 11,
+      "secondsPlayed" : 2053
+    }, {
+      "name" : "Freak",
+      "streamCount" : 11,
+      "secondsPlayed" : 2306
+    }, {
+      "name" : "AMOR E ÓDIO",
+      "streamCount" : 11,
+      "secondsPlayed" : 1273
+    }, {
+      "name" : "DISCOVERY",
+      "streamCount" : 10,
+      "secondsPlayed" : 1538
+    }, {
+      "name" : "SEGREDO",
+      "streamCount" : 10,
+      "secondsPlayed" : 1470
+    }, {
+      "name" : "TEMPO DO OURO",
+      "streamCount" : 10,
+      "secondsPlayed" : 1698
+    }, {
+      "name" : "LUZ, CAMA E AÇÃO",
+      "streamCount" : 9,
+      "secondsPlayed" : 1102
+    } ],
+    "topArtists" : [ {
+      "name" : "Alee",
+      "streamCount" : 174,
+      "secondsPlayed" : 23220
+    }, {
+      "name" : "System Of A Down",
+      "streamCount" : 85,
+      "secondsPlayed" : 14730
+    }, {
+      "name" : "CJota",
+      "streamCount" : 78,
+      "secondsPlayed" : 12824
+    }, {
+      "name" : "Silverchair",
+      "streamCount" : 61,
+      "secondsPlayed" : 11536
+    }, {
+      "name" : "Veigh",
+      "streamCount" : 71,
+      "secondsPlayed" : 10490
+    }, {
+      "name" : "Ryu, The Runner",
+      "streamCount" : 62,
+      "secondsPlayed" : 9275
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 42,
+      "secondsPlayed" : 9137
+    }, {
+      "name" : "Nirvana",
+      "streamCount" : 38,
+      "secondsPlayed" : 7045
+    }, {
+      "name" : "Supernova Ent",
+      "streamCount" : 58,
+      "secondsPlayed" : 8670
+    }, {
+      "name" : "Metallica",
+      "streamCount" : 26,
+      "secondsPlayed" : 8098
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 353,
+      "secondsPlayed" : 78548
+    }, {
+      "name" : "trap",
+      "streamCount" : 370,
+      "secondsPlayed" : 60839
+    }, {
+      "name" : "english rock",
+      "streamCount" : 163,
+      "secondsPlayed" : 38183
+    }, {
+      "name" : "metal",
+      "streamCount" : 149,
+      "secondsPlayed" : 33171
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 148,
+      "secondsPlayed" : 32955
+    }, {
+      "name" : "grunge",
+      "streamCount" : 148,
+      "secondsPlayed" : 32435
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 111,
+      "secondsPlayed" : 28136
+    }, {
+      "name" : "90s alternative",
+      "streamCount" : 107,
+      "secondsPlayed" : 24430
+    }, {
+      "name" : "90s rock",
+      "streamCount" : 99,
+      "secondsPlayed" : 23184
+    }, {
+      "name" : "post-grunge",
+      "streamCount" : 94,
+      "secondsPlayed" : 20063
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-08",
+    "streamCount" : 575,
+    "secondsPlayed" : 149601,
+    "topTracks" : [ {
+      "name" : "Whiskey In The Jar",
+      "streamCount" : 82,
+      "secondsPlayed" : 23985
+    }, {
+      "name" : "War Pigs / Luke's Wall - 2012 - Remaster",
+      "streamCount" : 50,
+      "secondsPlayed" : 22343
+    }, {
+      "name" : "Black",
+      "streamCount" : 14,
+      "secondsPlayed" : 4028
+    }, {
+      "name" : "Freak",
+      "streamCount" : 11,
+      "secondsPlayed" : 2676
+    }, {
+      "name" : "The Trooper - 2015 Remaster",
+      "streamCount" : 10,
+      "secondsPlayed" : 1990
+    }, {
+      "name" : "I Am Mine",
+      "streamCount" : 9,
+      "secondsPlayed" : 1705
+    }, {
+      "name" : "Would? (2022 Remaster)",
+      "streamCount" : 9,
+      "secondsPlayed" : 1453
+    }, {
+      "name" : "Even Flow",
+      "streamCount" : 7,
+      "secondsPlayed" : 1891
+    }, {
+      "name" : "Disposable Heroes",
+      "streamCount" : 6,
+      "secondsPlayed" : 1411
+    }, {
+      "name" : "Like a Stone",
+      "streamCount" : 6,
+      "secondsPlayed" : 1758
+    } ],
+    "topArtists" : [ {
+      "name" : "Metallica",
+      "streamCount" : 169,
+      "secondsPlayed" : 49581
+    }, {
+      "name" : "Black Sabbath",
+      "streamCount" : 70,
+      "secondsPlayed" : 27628
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 46,
+      "secondsPlayed" : 11872
+    }, {
+      "name" : "System Of A Down",
+      "streamCount" : 37,
+      "secondsPlayed" : 6510
+    }, {
+      "name" : "Katito Alves",
+      "streamCount" : 24,
+      "secondsPlayed" : 3634
+    }, {
+      "name" : "Alice In Chains",
+      "streamCount" : 21,
+      "secondsPlayed" : 3756
+    }, {
+      "name" : "Iron Maiden",
+      "streamCount" : 16,
+      "secondsPlayed" : 3779
+    }, {
+      "name" : "Silverchair",
+      "streamCount" : 14,
+      "secondsPlayed" : 3183
+    }, {
+      "name" : "Nirvana",
+      "streamCount" : 12,
+      "secondsPlayed" : 2108
+    }, {
+      "name" : "Oasis",
+      "streamCount" : 10,
+      "secondsPlayed" : 2452
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 319,
+      "secondsPlayed" : 129001
+    }, {
+      "name" : "metal",
+      "streamCount" : 188,
+      "secondsPlayed" : 92596
+    }, {
+      "name" : "hard rock",
+      "streamCount" : 120,
+      "secondsPlayed" : 78528
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 118,
+      "secondsPlayed" : 77629
+    }, {
+      "name" : "english rock",
+      "streamCount" : 164,
+      "secondsPlayed" : 69289
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 140,
+      "secondsPlayed" : 60026
+    }, {
+      "name" : "classic metal",
+      "streamCount" : 94,
+      "secondsPlayed" : 49456
+    }, {
+      "name" : "heavy metal",
+      "streamCount" : 90,
+      "secondsPlayed" : 47974
+    }, {
+      "name" : "old school rock",
+      "streamCount" : 66,
+      "secondsPlayed" : 38395
+    }, {
+      "name" : "party rock",
+      "streamCount" : 43,
+      "secondsPlayed" : 33017
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-07",
+    "streamCount" : 457,
+    "secondsPlayed" : 112232,
+    "topTracks" : [ {
+      "name" : "War Pigs / Luke's Wall - 2012 - Remaster",
+      "streamCount" : 9,
+      "secondsPlayed" : 2756
+    }, {
+      "name" : "Fade To Black - Remastered",
+      "streamCount" : 7,
+      "secondsPlayed" : 2576
+    }, {
+      "name" : "For Whom The Bell Tolls - Remastered",
+      "streamCount" : 7,
+      "secondsPlayed" : 1931
+    }, {
+      "name" : "Sugar",
+      "streamCount" : 7,
+      "secondsPlayed" : 946
+    }, {
+      "name" : "Sad Statue",
+      "streamCount" : 6,
+      "secondsPlayed" : 1134
+    }, {
+      "name" : "Murder One",
+      "streamCount" : 6,
+      "secondsPlayed" : 1700
+    }, {
+      "name" : "Radio/Video",
+      "streamCount" : 6,
+      "secondsPlayed" : 1494
+    }, {
+      "name" : "Stop Crying Your Heart Out",
+      "streamCount" : 5,
+      "secondsPlayed" : 1323
+    }, {
+      "name" : "Through the Never - Remastered 2021",
+      "streamCount" : 5,
+      "secondsPlayed" : 1203
+    }, {
+      "name" : "The Trooper - 2015 Remaster",
+      "streamCount" : 5,
+      "secondsPlayed" : 1008
+    } ],
+    "topArtists" : [ {
+      "name" : "Metallica",
+      "streamCount" : 149,
+      "secondsPlayed" : 47256
+    }, {
+      "name" : "System Of A Down",
+      "streamCount" : 94,
+      "secondsPlayed" : 16492
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 20,
+      "secondsPlayed" : 5763
+    }, {
+      "name" : "Black Sabbath",
+      "streamCount" : 17,
+      "secondsPlayed" : 4443
+    }, {
+      "name" : "Ozzy Osbourne",
+      "streamCount" : 15,
+      "secondsPlayed" : 4271
+    }, {
+      "name" : "Oasis",
+      "streamCount" : 14,
+      "secondsPlayed" : 3719
+    }, {
+      "name" : "Nirvana",
+      "streamCount" : 14,
+      "secondsPlayed" : 2679
+    }, {
+      "name" : "Linkin Park",
+      "streamCount" : 13,
+      "secondsPlayed" : 2316
+    }, {
+      "name" : "Alee",
+      "streamCount" : 12,
+      "secondsPlayed" : 1667
+    }, {
+      "name" : "Iron Maiden",
+      "streamCount" : 10,
+      "secondsPlayed" : 2321
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 386,
+      "secondsPlayed" : 106115
+    }, {
+      "name" : "metal",
+      "streamCount" : 259,
+      "secondsPlayed" : 76327
+    }, {
+      "name" : "hard rock",
+      "streamCount" : 138,
+      "secondsPlayed" : 45324
+    }, {
+      "name" : "classic metal",
+      "streamCount" : 114,
+      "secondsPlayed" : 41361
+    }, {
+      "name" : "thrash metal",
+      "streamCount" : 100,
+      "secondsPlayed" : 40240
+    }, {
+      "name" : "english rock",
+      "streamCount" : 147,
+      "secondsPlayed" : 38385
+    }, {
+      "name" : "heavy metal",
+      "streamCount" : 105,
+      "secondsPlayed" : 37478
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 110,
+      "secondsPlayed" : 32713
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 110,
+      "secondsPlayed" : 28956
+    }, {
+      "name" : "alternative metal",
+      "streamCount" : 114,
+      "secondsPlayed" : 21688
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-06",
+    "streamCount" : 541,
+    "secondsPlayed" : 121306,
+    "topTracks" : [ {
+      "name" : "B.Y.O.B.",
+      "streamCount" : 14,
+      "secondsPlayed" : 3305
+    }, {
+      "name" : "Genocidal Humanoidz",
+      "streamCount" : 11,
+      "secondsPlayed" : 1470
+    }, {
+      "name" : "Lonely Day",
+      "streamCount" : 10,
+      "secondsPlayed" : 1662
+    }, {
+      "name" : "Wasting Love - 2015 Remaster",
+      "streamCount" : 10,
+      "secondsPlayed" : 2558
+    }, {
+      "name" : "Roulette",
+      "streamCount" : 10,
+      "secondsPlayed" : 1750
+    }, {
+      "name" : "This I Love",
+      "streamCount" : 9,
+      "secondsPlayed" : 2541
+    }, {
+      "name" : "Enter Sandman - Remastered 2021",
+      "streamCount" : 9,
+      "secondsPlayed" : 2949
+    }, {
+      "name" : "One",
+      "streamCount" : 8,
+      "secondsPlayed" : 3264
+    }, {
+      "name" : "Sonne",
+      "streamCount" : 8,
+      "secondsPlayed" : 1748
+    }, {
+      "name" : "Master Of Puppets",
+      "streamCount" : 8,
+      "secondsPlayed" : 4120
+    } ],
+    "topArtists" : [ {
+      "name" : "System Of A Down",
+      "streamCount" : 137,
+      "secondsPlayed" : 23543
+    }, {
+      "name" : "Metallica",
+      "streamCount" : 64,
+      "secondsPlayed" : 22507
+    }, {
+      "name" : "Iron Maiden",
+      "streamCount" : 27,
+      "secondsPlayed" : 6458
+    }, {
+      "name" : "Guns N' Roses",
+      "streamCount" : 25,
+      "secondsPlayed" : 6739
+    }, {
+      "name" : "Linkin Park",
+      "streamCount" : 25,
+      "secondsPlayed" : 3488
+    }, {
+      "name" : "Nirvana",
+      "streamCount" : 22,
+      "secondsPlayed" : 4947
+    }, {
+      "name" : "Slipknot",
+      "streamCount" : 18,
+      "secondsPlayed" : 2843
+    }, {
+      "name" : "Megadeth",
+      "streamCount" : 17,
+      "secondsPlayed" : 4460
+    }, {
+      "name" : "Rammstein",
+      "streamCount" : 16,
+      "secondsPlayed" : 3486
+    }, {
+      "name" : "Limp Bizkit",
+      "streamCount" : 13,
+      "secondsPlayed" : 2809
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 422,
+      "secondsPlayed" : 105344
+    }, {
+      "name" : "metal",
+      "streamCount" : 278,
+      "secondsPlayed" : 69632
+    }, {
+      "name" : "english rock",
+      "streamCount" : 244,
+      "secondsPlayed" : 67442
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 187,
+      "secondsPlayed" : 47373
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 157,
+      "secondsPlayed" : 47157
+    }, {
+      "name" : "hard rock",
+      "streamCount" : 145,
+      "secondsPlayed" : 44188
+    }, {
+      "name" : "classic metal",
+      "streamCount" : 106,
+      "secondsPlayed" : 35487
+    }, {
+      "name" : "nu metal",
+      "streamCount" : 177,
+      "secondsPlayed" : 34080
+    }, {
+      "name" : "alternative metal",
+      "streamCount" : 175,
+      "secondsPlayed" : 33768
+    }, {
+      "name" : "heavy metal",
+      "streamCount" : 102,
+      "secondsPlayed" : 31707
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-05",
+    "streamCount" : 817,
+    "secondsPlayed" : 180838,
+    "topTracks" : [ {
+      "name" : "Vicinity Of Obscenity",
+      "streamCount" : 23,
+      "secondsPlayed" : 3673
+    }, {
+      "name" : "Lonely Day",
+      "streamCount" : 21,
+      "secondsPlayed" : 3506
+    }, {
+      "name" : "Soldier Side",
+      "streamCount" : 19,
+      "secondsPlayed" : 4151
+    }, {
+      "name" : "Prison Song",
+      "streamCount" : 18,
+      "secondsPlayed" : 3594
+    }, {
+      "name" : "B.Y.O.B.",
+      "streamCount" : 16,
+      "secondsPlayed" : 3945
+    }, {
+      "name" : "No More Tears",
+      "streamCount" : 14,
+      "secondsPlayed" : 5525
+    }, {
+      "name" : "Radio/Video",
+      "streamCount" : 14,
+      "secondsPlayed" : 3146
+    }, {
+      "name" : "Question!",
+      "streamCount" : 13,
+      "secondsPlayed" : 2420
+    }, {
+      "name" : "Toxicity",
+      "streamCount" : 12,
+      "secondsPlayed" : 2431
+    }, {
+      "name" : "Aerials",
+      "streamCount" : 12,
+      "secondsPlayed" : 2820
+    } ],
+    "topArtists" : [ {
+      "name" : "System Of A Down",
+      "streamCount" : 306,
+      "secondsPlayed" : 58331
+    }, {
+      "name" : "Metallica",
+      "streamCount" : 67,
+      "secondsPlayed" : 22035
+    }, {
+      "name" : "Nirvana",
+      "streamCount" : 36,
+      "secondsPlayed" : 7360
+    }, {
+      "name" : "Linkin Park",
+      "streamCount" : 32,
+      "secondsPlayed" : 5507
+    }, {
+      "name" : "Ozzy Osbourne",
+      "streamCount" : 32,
+      "secondsPlayed" : 9612
+    }, {
+      "name" : "The Offspring",
+      "streamCount" : 26,
+      "secondsPlayed" : 4618
+    }, {
+      "name" : "Guns N' Roses",
+      "streamCount" : 22,
+      "secondsPlayed" : 4858
+    }, {
+      "name" : "Foo Fighters",
+      "streamCount" : 20,
+      "secondsPlayed" : 4182
+    }, {
+      "name" : "Slipknot",
+      "streamCount" : 14,
+      "secondsPlayed" : 2745
+    }, {
+      "name" : "Bon Jovi",
+      "streamCount" : 12,
+      "secondsPlayed" : 2948
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 601,
+      "secondsPlayed" : 154728
+    }, {
+      "name" : "metal",
+      "streamCount" : 377,
+      "secondsPlayed" : 98879
+    }, {
+      "name" : "english rock",
+      "streamCount" : 280,
+      "secondsPlayed" : 79872
+    }, {
+      "name" : "alternative metal",
+      "streamCount" : 326,
+      "secondsPlayed" : 70376
+    }, {
+      "name" : "nu metal",
+      "streamCount" : 322,
+      "secondsPlayed" : 69511
+    }, {
+      "name" : "rap metal",
+      "streamCount" : 287,
+      "secondsPlayed" : 61753
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 216,
+      "secondsPlayed" : 59023
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 160,
+      "secondsPlayed" : 48884
+    }, {
+      "name" : "hard rock",
+      "streamCount" : 132,
+      "secondsPlayed" : 43759
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 172,
+      "secondsPlayed" : 37907
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-04",
+    "streamCount" : 423,
+    "secondsPlayed" : 91999,
+    "topTracks" : [ {
+      "name" : "One",
+      "streamCount" : 13,
+      "secondsPlayed" : 4276
+    }, {
+      "name" : "Aerials",
+      "streamCount" : 13,
+      "secondsPlayed" : 2735
+    }, {
+      "name" : "Prison Song",
+      "streamCount" : 11,
+      "secondsPlayed" : 1918
+    }, {
+      "name" : "Vicinity Of Obscenity",
+      "streamCount" : 11,
+      "secondsPlayed" : 1739
+    }, {
+      "name" : "Radio/Video",
+      "streamCount" : 11,
+      "secondsPlayed" : 2801
+    }, {
+      "name" : "Violent Pornography",
+      "streamCount" : 11,
+      "secondsPlayed" : 2084
+    }, {
+      "name" : "B.Y.O.B.",
+      "streamCount" : 10,
+      "secondsPlayed" : 2401
+    }, {
+      "name" : "Faint",
+      "streamCount" : 9,
+      "secondsPlayed" : 1458
+    }, {
+      "name" : "I-E-A-I-A-I-O",
+      "streamCount" : 9,
+      "secondsPlayed" : 1659
+    }, {
+      "name" : "Toxicity",
+      "streamCount" : 8,
+      "secondsPlayed" : 1611
+    } ],
+    "topArtists" : [ {
+      "name" : "System Of A Down",
+      "streamCount" : 128,
+      "secondsPlayed" : 23914
+    }, {
+      "name" : "Metallica",
+      "streamCount" : 76,
+      "secondsPlayed" : 25032
+    }, {
+      "name" : "Nirvana",
+      "streamCount" : 32,
+      "secondsPlayed" : 6287
+    }, {
+      "name" : "Linkin Park",
+      "streamCount" : 19,
+      "secondsPlayed" : 3030
+    }, {
+      "name" : "The Offspring",
+      "streamCount" : 17,
+      "secondsPlayed" : 2918
+    }, {
+      "name" : "Marília Mendonça",
+      "streamCount" : 17,
+      "secondsPlayed" : 3265
+    }, {
+      "name" : "AC/DC",
+      "streamCount" : 11,
+      "secondsPlayed" : 2210
+    }, {
+      "name" : "Pearl Jam",
+      "streamCount" : 7,
+      "secondsPlayed" : 1501
+    }, {
+      "name" : "Henrique & Juliano",
+      "streamCount" : 6,
+      "secondsPlayed" : 1130
+    }, {
+      "name" : "Queen",
+      "streamCount" : 5,
+      "secondsPlayed" : 1664
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 292,
+      "secondsPlayed" : 78425
+    }, {
+      "name" : "metal",
+      "streamCount" : 177,
+      "secondsPlayed" : 51206
+    }, {
+      "name" : "english rock",
+      "streamCount" : 167,
+      "secondsPlayed" : 46734
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 115,
+      "secondsPlayed" : 30385
+    }, {
+      "name" : "alternative metal",
+      "streamCount" : 128,
+      "secondsPlayed" : 28940
+    }, {
+      "name" : "nu metal",
+      "streamCount" : 127,
+      "secondsPlayed" : 28735
+    }, {
+      "name" : "hard rock",
+      "streamCount" : 82,
+      "secondsPlayed" : 28076
+    }, {
+      "name" : "rap metal",
+      "streamCount" : 121,
+      "secondsPlayed" : 27597
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 87,
+      "secondsPlayed" : 26391
+    }, {
+      "name" : "classic metal",
+      "streamCount" : 52,
+      "secondsPlayed" : 19898
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-03",
+    "streamCount" : 554,
+    "secondsPlayed" : 116245,
+    "topTracks" : [ {
+      "name" : "Polly - Remastered",
+      "streamCount" : 18,
+      "secondsPlayed" : 2803
+    }, {
+      "name" : "B.Y.O.B.",
+      "streamCount" : 16,
+      "secondsPlayed" : 3774
+    }, {
+      "name" : "I-E-A-I-A-I-O",
+      "streamCount" : 13,
+      "secondsPlayed" : 2444
+    }, {
+      "name" : "One",
+      "streamCount" : 13,
+      "secondsPlayed" : 5521
+    }, {
+      "name" : "The Unforgiven II",
+      "streamCount" : 13,
+      "secondsPlayed" : 4773
+    }, {
+      "name" : "Johnny",
+      "streamCount" : 13,
+      "secondsPlayed" : 1423
+    }, {
+      "name" : "Aerials",
+      "streamCount" : 12,
+      "secondsPlayed" : 2856
+    }, {
+      "name" : "Violent Pornography",
+      "streamCount" : 12,
+      "secondsPlayed" : 2080
+    }, {
+      "name" : "Prison Song",
+      "streamCount" : 10,
+      "secondsPlayed" : 1430
+    }, {
+      "name" : "Faint",
+      "streamCount" : 10,
+      "secondsPlayed" : 1516
+    } ],
+    "topArtists" : [ {
+      "name" : "System Of A Down",
+      "streamCount" : 122,
+      "secondsPlayed" : 21843
+    }, {
+      "name" : "Metallica",
+      "streamCount" : 74,
+      "secondsPlayed" : 26117
+    }, {
+      "name" : "Nirvana",
+      "streamCount" : 60,
+      "secondsPlayed" : 11357
+    }, {
+      "name" : "The Offspring",
+      "streamCount" : 60,
+      "secondsPlayed" : 10359
+    }, {
+      "name" : "Linkin Park",
+      "streamCount" : 23,
+      "secondsPlayed" : 3762
+    }, {
+      "name" : "Katito Alves",
+      "streamCount" : 13,
+      "secondsPlayed" : 1599
+    }, {
+      "name" : "Marília Mendonça",
+      "streamCount" : 14,
+      "secondsPlayed" : 2600
+    }, {
+      "name" : "Queen",
+      "streamCount" : 8,
+      "secondsPlayed" : 2073
+    }, {
+      "name" : "Bon Jovi",
+      "streamCount" : 7,
+      "secondsPlayed" : 1618
+    }, {
+      "name" : "2Pac",
+      "streamCount" : 7,
+      "secondsPlayed" : 1099
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 361,
+      "secondsPlayed" : 90953
+    }, {
+      "name" : "english rock",
+      "streamCount" : 240,
+      "secondsPlayed" : 66620
+    }, {
+      "name" : "metal",
+      "streamCount" : 168,
+      "secondsPlayed" : 49340
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 165,
+      "secondsPlayed" : 40849
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 120,
+      "secondsPlayed" : 34317
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 145,
+      "secondsPlayed" : 32457
+    }, {
+      "name" : "hard rock",
+      "streamCount" : 93,
+      "secondsPlayed" : 32040
+    }, {
+      "name" : "alternative metal",
+      "streamCount" : 131,
+      "secondsPlayed" : 28293
+    }, {
+      "name" : "nu metal",
+      "streamCount" : 127,
+      "secondsPlayed" : 27845
+    }, {
+      "name" : "rap metal",
+      "streamCount" : 123,
+      "secondsPlayed" : 26898
+    } ],
+    "timeOfDayStats" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-01-25",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "CÂMERA LENTA",
+      "topPercentile" : 0.012431348044858091
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "CÂMERA LENTA",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Mesma V*",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Come As You Are - Remastered",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2026-01",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Época Sombria ☠️",
+      "listeningPercentage" : 29.70611380966595
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Black",
+      "topPercentile" : 0.08809776304001705
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "ALPINISTA SOCIAL",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : " \uD83D\uDE35‍\uD83D\uDCAB\uD83D\uDC7A",
+      "listeningPercentage" : 32.77812980899792
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "CJota",
+      "milestoneListeningSeconds" : 11681
+    }
+  }, {
+    "date" : "2025-12",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Megadeth",
+      "secondEntity" : "Blest Jones"
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Silverchair",
+      "topPercentile" : 0.03347013647102499
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Deep Purple",
+      "secondEntity" : "Toledo"
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Alice In Chains",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Nunca Mais",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Romeu",
+      "topPercentile" : 0.01826552947392256
+    }
+  }, {
+    "date" : "2025-11",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Tornado Of Souls - 2004 Remix",
+      "streamCount" : 11
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Problemas de um Milionário",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Nirvana",
+      "listeningPercentage" : 20.01038152089281
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Matuê",
+      "country" : "BR",
+      "secondsPlayed" : 6008,
+      "marketAvgSecondsPlayed" : 1162.4572
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Mente do Coringa",
+      "secondEntity" : "Suicidal Dream"
+    }
+  }, {
+    "date" : "2025-10",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Bleed The Freak",
+      "streamCount" : 11
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Alee",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Pearl Jam",
+      "topPercentile" : 0.017522957596604462
+    }
+  }, {
+    "date" : "2025-09-14",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Beggin'",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-09-07",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Mc IG",
+      "secondEntity" : "Judas Priest"
+    }
+  }, {
+    "date" : "2025-09",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Alee", "System Of A Down", "CJota", "Black", "Freak", "Suicidal Dream", "CAROLINA", "Fade To Black - Remastered", "MEU MUNDO" ],
+      "milestoneListeningSeconds" : 162814
+    }
+  }, {
+    "date" : "2025-08-31",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "I Am Mine",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2025-08-24",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Murder One",
+      "topPercentile" : 0.0244975556762629
+    }
+  }, {
+    "date" : "2025-08-17",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Aí Aí Que Legal - Aí Aí Que Fenomenal",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-08-10",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Whiskey In The Jar",
+      "streamCount" : 75
+    }
+  }, {
+    "date" : "2025-08-03",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "System Of A Down",
+      "country" : "BR",
+      "secondsPlayed" : 6185,
+      "marketAvgSecondsPlayed" : 901.5971
+    }
+  }, {
+    "date" : "2025-08",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "War Pigs / Luke's Wall - 2012 - Remaster",
+      "streamCount" : 50
+    }
+  }, {
+    "date" : "2025-07-27",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Dream On",
+      "topPercentile" : 0.05966235440798798
+    }
+  }, {
+    "date" : "2025-07-20",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Oasis",
+      "dayStreaks" : 4
+    }
+  } ]
+}
