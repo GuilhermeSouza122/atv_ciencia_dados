@@ -1,0 +1,199 @@
+{
+  "tracks" : [ {
+    "artist" : "The Neighbourhood",
+    "album" : "Wiped Out!",
+    "track" : "Daddy Issues",
+    "uri" : "spotify:track:5E30LdtzQTGqRvNd7l6kG5"
+  }, {
+    "artist" : "Tropa da 021",
+    "album" : "RICO, MAROLENTO & FAVELADO",
+    "track" : "WTF",
+    "uri" : "spotify:track:0tamhzmJURji3PJOs2ly6b"
+  }, {
+    "artist" : "Billie Eilish",
+    "album" : "Happier Than Ever",
+    "track" : "Therefore I Am",
+    "uri" : "spotify:track:20R4HfKloPKgXDqU7UKk3x"
+  }, {
+    "artist" : "HWASA",
+    "album" : "María",
+    "track" : "Maria",
+    "uri" : "spotify:track:0ZeGfEAL5Rl4pd5LZBGuEK"
+  }, {
+    "artist" : "CORTIS",
+    "album" : "What You Want",
+    "track" : "What You Want",
+    "uri" : "spotify:track:3rAcN3CLeSrkhIZN8PHbwb"
+  }, {
+    "artist" : "BIBI",
+    "album" : "EVE: ROMANCE",
+    "track" : "Scott and Zelda",
+    "uri" : "spotify:track:1MJyiTlVdSLAjI9aclZ3hL"
+  }, {
+    "artist" : "Abbot",
+    "album" : "Hylander",
+    "track" : "Hylander",
+    "uri" : "spotify:track:3sOcmmmWB7dqyziUVLXpTi"
+  }, {
+    "artist" : "The Offspring",
+    "album" : "Americana",
+    "track" : "The Kids Aren't Alright",
+    "uri" : "spotify:track:4EchqUKQ3qAQuRNKmeIpnf"
+  }, {
+    "artist" : "girl in red",
+    "album" : "girls",
+    "track" : "girls",
+    "uri" : "spotify:track:04OSnqlwlBJMvidYccraVz"
+  }, {
+    "artist" : "Damiano David",
+    "album" : "Nothing Breaks Like a Heart - Spotify Singles",
+    "track" : "Nothing Breaks Like a Heart - Spotify Singles",
+    "uri" : "spotify:track:5szvpZOIMuzCrwNrRwnB9B"
+  }, {
+    "artist" : "Beach Bunny",
+    "album" : "Good Girls (Don’t Get Used)",
+    "track" : "Good Girls (Don’t Get Used)",
+    "uri" : "spotify:track:2FnrUcdLWId0F13GT32ugT"
+  }, {
+    "artist" : "Conan Gray",
+    "album" : "Kid Krow",
+    "track" : "Maniac",
+    "uri" : "spotify:track:6KfoDhO4XUWSbnyKjNp9c4"
+  }, {
+    "artist" : "girl in red",
+    "album" : "bad idea!",
+    "track" : "bad idea!",
+    "uri" : "spotify:track:57j65yC2HggQfmYNc6rdOK"
+  }, {
+    "artist" : "FBC",
+    "album" : "BAILE",
+    "track" : "Delírios",
+    "uri" : "spotify:track:546KHf7B5TeIifYB1gVZ9E"
+  }, {
+    "artist" : "Melanie Martinez",
+    "album" : "After School EP",
+    "track" : "The Bakery",
+    "uri" : "spotify:track:3JUeBSM4bsJGwYCVRqMeuC"
+  }, {
+    "artist" : "WALK THE MOON",
+    "album" : "TALKING IS HARD",
+    "track" : "Shut Up and Dance",
+    "uri" : "spotify:track:4kbj5MwxO1bq9wjT5g9HaA"
+  }, {
+    "artist" : "LISA",
+    "album" : "Alter Ego",
+    "track" : "FXCK UP THE WORLD (feat. Future)",
+    "uri" : "spotify:track:4rBRRLgdB9DYJhqA9uVcWt"
+  }, {
+    "artist" : "HWASA",
+    "album" : "TWIT",
+    "track" : "TWIT",
+    "uri" : "spotify:track:6qyz1KOlGJsKYJ4ZsRmRSD"
+  }, {
+    "artist" : "Cafuné",
+    "album" : "Running",
+    "track" : "Tek It",
+    "uri" : "spotify:track:751srcHf5tUqcEa9pRCQwP"
+  }, {
+    "artist" : "Olivia Rodrigo",
+    "album" : "SOUR",
+    "track" : "jealousy, jealousy",
+    "uri" : "spotify:track:0MMyJUC3WNnFS1lit5pTjk"
+  } ],
+  "albums" : [ {
+    "artist" : "oShaman",
+    "album" : "Amar, Sonhar",
+    "uri" : "spotify:album:6ug4r4hOo1SwSOIiVwpula"
+  } ],
+  "shows" : [ {
+    "name" : "Café da Manhã",
+    "publisher" : "Spotify Studios",
+    "uri" : "spotify:show:6WRTzGhq3uFxMrxHrHh1lo"
+  }, {
+    "name" : "Fala Tech",
+    "publisher" : "Instituto J&F",
+    "uri" : "spotify:show:1cjV2HAB2AFzXhwprpcDC7"
+  }, {
+    "name" : "Petit Journal",
+    "publisher" : "Petit Journal",
+    "uri" : "spotify:show:75MOMlaBaE9Smo2Vp87CO2"
+  }, {
+    "name" : "Resumão Diário",
+    "publisher" : "G1",
+    "uri" : "spotify:show:7fzhxpt0RgWaLFYydsv2b4"
+  }, {
+    "name" : "Revista Oeste",
+    "publisher" : "Revista Oeste",
+    "uri" : "spotify:show:2p0YkfTnMgnaTTsHc3jCwt"
+  }, {
+    "name" : "Só no Brasil",
+    "publisher" : "Pipoca Sound",
+    "uri" : "spotify:show:4OxjY3aHZsr1GescvXtHxn"
+  }, {
+    "name" : "Xadrez Verbal",
+    "publisher" : "Central 3 Podcasts",
+    "uri" : "spotify:show:5uS1rMEtMHBmJhW2ruHRuH"
+  } ],
+  "episodes" : [ {
+    "name" : "33(EMC) - Odisséia - Homero",
+    "show" : "José Monir Nasser",
+    "uri" : "spotify:episode:6EIcklWjHTjInxsRLzfGtY"
+  }, {
+    "name" : "OESTE SEM FILTRO - 04/02/2025",
+    "show" : "Revista Oeste",
+    "uri" : "spotify:episode:3fmwFLBeaGf46fOKgEWjUC"
+  }, {
+    "name" : "A Força do Agro, com Joice Maffezzolli - Macaúba é transformada em embalagem biodegradável",
+    "show" : "Revista Oeste",
+    "uri" : "spotify:episode:2VhZYayGWBK76Ch4Gqluyi"
+  }, {
+    "name" : "Xadrez Verbal #389 Semana Caótica",
+    "show" : "Xadrez Verbal",
+    "uri" : "spotify:episode:4XAQiDfOk3oNZs82VCyouf"
+  }, {
+    "name" : "#018: Tecnologia na Educação - IA na Sala de Aula Uma Nova Era Educacional",
+    "show" : "Fala Tech",
+    "uri" : "spotify:episode:7qCLSU8jxzuqL9nMtiuRCx"
+  }, {
+    "name" : "Bate-Papo 799 - Europa reage aos planos de Trump sobre a Ucrânia",
+    "show" : "Petit Journal",
+    "uri" : "spotify:episode:37BAJpfnRFs2rXMa2Ai3hD"
+  }, {
+    "name" : "Bate-Papo 795 - Brasil na rota da guerra comercial",
+    "show" : "Petit Journal",
+    "uri" : "spotify:episode:0IA5Zvwx0Y8JzV6UidHvY4"
+  }, {
+    "name" : "Bate-Papo 796 - Cessar-fogo em risco em Gaza",
+    "show" : "Petit Journal",
+    "uri" : "spotify:episode:3AelOQ3jIW3rpJ493MyL1F"
+  }, {
+    "name" : "Bate-Papo 797 - O custo da reconstrução de Gaza",
+    "show" : "Petit Journal",
+    "uri" : "spotify:episode:0O5DpyugBSVCZHn6Rw5ogF"
+  }, {
+    "name" : "Bate-Papo 798 - Putin e Trump se falam por telefone",
+    "show" : "Petit Journal",
+    "uri" : "spotify:episode:7BmLci7nfw9fqDrsdkRc68"
+  }, {
+    "name" : "Bate-Papo 793 - Trump e a Faixa de Gaza",
+    "show" : "Petit Journal",
+    "uri" : "spotify:episode:6njthqQgbmEXOkERQZdn27"
+  }, {
+    "name" : "Odisseia - Homero",
+    "show" : "Bibliotheca de Alexandria",
+    "uri" : "spotify:episode:3mnCRCP6XfBudQKSHz1Ra2"
+  }, {
+    "name" : "O poder do centrão e os dilemas para 2026",
+    "show" : "Café da Manhã",
+    "uri" : "spotify:episode:29VMpS89RZDawTYeKRSEfL"
+  }, {
+    "name" : "Gaza e a política de bravatas de Trump",
+    "show" : "Café da Manhã",
+    "uri" : "spotify:episode:62nJ1R9ceAdEmPZvhe2qLD"
+  } ],
+  "bannedTracks" : [ ],
+  "artists" : [ ],
+  "bannedArtists" : [ ],
+  "pageMatch" : [ ],
+  "other" : [ ]
+}

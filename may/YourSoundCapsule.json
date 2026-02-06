@@ -1,0 +1,1908 @@
+{
+  "stats" : [ {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Boy With Luv (feat. Halsey)",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "FANCY",
+      "streamCount" : 1,
+      "secondsPlayed" : 213
+    }, {
+      "name" : "OMG",
+      "streamCount" : 1,
+      "secondsPlayed" : 212
+    }, {
+      "name" : "I Need U",
+      "streamCount" : 1,
+      "secondsPlayed" : 210
+    }, {
+      "name" : "What is Love?",
+      "streamCount" : 1,
+      "secondsPlayed" : 208
+    }, {
+      "name" : "Feel Special",
+      "streamCount" : 1,
+      "secondsPlayed" : 203
+    }, {
+      "name" : "Blue Flame",
+      "streamCount" : 1,
+      "secondsPlayed" : 201
+    }, {
+      "name" : "Thirsty",
+      "streamCount" : 1,
+      "secondsPlayed" : 193
+    }, {
+      "name" : "Killin′ Me Good",
+      "streamCount" : 1,
+      "secondsPlayed" : 185
+    }, {
+      "name" : "ANTIFRAGILE",
+      "streamCount" : 1,
+      "secondsPlayed" : 184
+    } ],
+    "topArtists" : [ {
+      "name" : "NewJeans",
+      "streamCount" : 4,
+      "secondsPlayed" : 535
+    }, {
+      "name" : "TWICE",
+      "streamCount" : 3,
+      "secondsPlayed" : 624
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 3,
+      "secondsPlayed" : 567
+    }, {
+      "name" : "BTS",
+      "streamCount" : 2,
+      "secondsPlayed" : 439
+    }, {
+      "name" : "aespa",
+      "streamCount" : 2,
+      "secondsPlayed" : 362
+    }, {
+      "name" : "JIHYO",
+      "streamCount" : 1,
+      "secondsPlayed" : 185
+    }, {
+      "name" : "NMIXX",
+      "streamCount" : 1,
+      "secondsPlayed" : 166
+    }, {
+      "name" : "MISAMO",
+      "streamCount" : 1,
+      "secondsPlayed" : 140
+    }, {
+      "name" : "KATSEYE",
+      "streamCount" : 1,
+      "secondsPlayed" : 123
+    }, {
+      "name" : "Charlie Brown Jr.",
+      "streamCount" : 1,
+      "secondsPlayed" : 101
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-12",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Supernatural",
+      "streamCount" : 3,
+      "secondsPlayed" : 526
+    }, {
+      "name" : "CRAZY",
+      "streamCount" : 3,
+      "secondsPlayed" : 492
+    }, {
+      "name" : "Gabriela",
+      "streamCount" : 3,
+      "secondsPlayed" : 393
+    }, {
+      "name" : "LEFT RIGHT",
+      "streamCount" : 2,
+      "secondsPlayed" : 416
+    }, {
+      "name" : "CHEER UP",
+      "streamCount" : 2,
+      "secondsPlayed" : 416
+    }, {
+      "name" : "ABCD - Extended Version",
+      "streamCount" : 2,
+      "secondsPlayed" : 400
+    }, {
+      "name" : "Armageddon",
+      "streamCount" : 2,
+      "secondsPlayed" : 392
+    }, {
+      "name" : "Whiplash",
+      "streamCount" : 2,
+      "secondsPlayed" : 366
+    }, {
+      "name" : "IYKYK",
+      "streamCount" : 2,
+      "secondsPlayed" : 360
+    }, {
+      "name" : "Attention",
+      "streamCount" : 2,
+      "secondsPlayed" : 360
+    } ],
+    "topArtists" : [ {
+      "name" : "NewJeans",
+      "streamCount" : 16,
+      "secondsPlayed" : 2332
+    }, {
+      "name" : "TWICE",
+      "streamCount" : 9,
+      "secondsPlayed" : 1666
+    }, {
+      "name" : "XG",
+      "streamCount" : 9,
+      "secondsPlayed" : 1539
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 9,
+      "secondsPlayed" : 1427
+    }, {
+      "name" : "aespa",
+      "streamCount" : 7,
+      "secondsPlayed" : 1314
+    }, {
+      "name" : "KATSEYE",
+      "streamCount" : 7,
+      "secondsPlayed" : 957
+    }, {
+      "name" : "ILLIT",
+      "streamCount" : 4,
+      "secondsPlayed" : 506
+    }, {
+      "name" : "Jung Kook",
+      "streamCount" : 3,
+      "secondsPlayed" : 628
+    }, {
+      "name" : "NAYEON",
+      "streamCount" : 3,
+      "secondsPlayed" : 568
+    }, {
+      "name" : "MISAMO",
+      "streamCount" : 2,
+      "secondsPlayed" : 382
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-05",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "KISS ME GOOD-BYE",
+      "streamCount" : 1,
+      "secondsPlayed" : 376
+    }, {
+      "name" : "MY FUNNY VALENTINE",
+      "streamCount" : 1,
+      "secondsPlayed" : 160
+    } ],
+    "topArtists" : [ {
+      "name" : "BUCK-TICK",
+      "streamCount" : 2,
+      "secondsPlayed" : 536
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01",
+    "streamCount" : 292,
+    "secondsPlayed" : 53332,
+    "topTracks" : [ {
+      "name" : "Touch",
+      "streamCount" : 4,
+      "secondsPlayed" : 516
+    }, {
+      "name" : "Supernatural",
+      "streamCount" : 3,
+      "secondsPlayed" : 526
+    }, {
+      "name" : "CRAZY",
+      "streamCount" : 3,
+      "secondsPlayed" : 492
+    }, {
+      "name" : "Gabriela",
+      "streamCount" : 3,
+      "secondsPlayed" : 393
+    }, {
+      "name" : "LEFT RIGHT",
+      "streamCount" : 2,
+      "secondsPlayed" : 416
+    }, {
+      "name" : "CHEER UP",
+      "streamCount" : 2,
+      "secondsPlayed" : 416
+    }, {
+      "name" : "I CAN'T STOP ME",
+      "streamCount" : 2,
+      "secondsPlayed" : 410
+    }, {
+      "name" : "ABCD - Extended Version",
+      "streamCount" : 2,
+      "secondsPlayed" : 400
+    }, {
+      "name" : "Armageddon",
+      "streamCount" : 2,
+      "secondsPlayed" : 392
+    }, {
+      "name" : "Thirsty",
+      "streamCount" : 2,
+      "secondsPlayed" : 386
+    } ],
+    "topArtists" : [ {
+      "name" : "NewJeans",
+      "streamCount" : 20,
+      "secondsPlayed" : 2867
+    }, {
+      "name" : "TWICE",
+      "streamCount" : 19,
+      "secondsPlayed" : 3751
+    }, {
+      "name" : "aespa",
+      "streamCount" : 13,
+      "secondsPlayed" : 2498
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 12,
+      "secondsPlayed" : 1994
+    }, {
+      "name" : "Olivia Rodrigo",
+      "streamCount" : 11,
+      "secondsPlayed" : 2020
+    }, {
+      "name" : "KATSEYE",
+      "streamCount" : 11,
+      "secondsPlayed" : 1475
+    }, {
+      "name" : "XG",
+      "streamCount" : 9,
+      "secondsPlayed" : 1539
+    }, {
+      "name" : "Ariana Grande",
+      "streamCount" : 8,
+      "secondsPlayed" : 1682
+    }, {
+      "name" : "girl in red",
+      "streamCount" : 7,
+      "secondsPlayed" : 1370
+    }, {
+      "name" : "ITZY",
+      "streamCount" : 7,
+      "secondsPlayed" : 1221
+    } ],
+    "topGenres" : [ {
+      "name" : "k-pop",
+      "streamCount" : 154,
+      "secondsPlayed" : 27690
+    }, {
+      "name" : "pop",
+      "streamCount" : 68,
+      "secondsPlayed" : 13297
+    }, {
+      "name" : "american pop",
+      "streamCount" : 41,
+      "secondsPlayed" : 8482
+    }, {
+      "name" : "dance pop",
+      "streamCount" : 25,
+      "secondsPlayed" : 5474
+    }, {
+      "name" : "throwback pop",
+      "streamCount" : 22,
+      "secondsPlayed" : 4707
+    }, {
+      "name" : "indie",
+      "streamCount" : 23,
+      "secondsPlayed" : 3988
+    }, {
+      "name" : "roots",
+      "streamCount" : 18,
+      "secondsPlayed" : 3590
+    }, {
+      "name" : "j-pop",
+      "streamCount" : 14,
+      "secondsPlayed" : 3292
+    }, {
+      "name" : "happy pop",
+      "streamCount" : 15,
+      "secondsPlayed" : 2948
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 15,
+      "secondsPlayed" : 2567
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 3090
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 36556
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 5755
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 6878
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 946
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 101
+    } ]
+  }, {
+    "date" : "2025-12",
+    "streamCount" : 639,
+    "secondsPlayed" : 121852,
+    "topTracks" : [ {
+      "name" : "ANTIFRAGILE",
+      "streamCount" : 6,
+      "secondsPlayed" : 1104
+    }, {
+      "name" : "GO!",
+      "streamCount" : 6,
+      "secondsPlayed" : 996
+    }, {
+      "name" : "Nothing Breaks Like a Heart - Spotify Singles",
+      "streamCount" : 6,
+      "secondsPlayed" : 1137
+    }, {
+      "name" : "OMG",
+      "streamCount" : 5,
+      "secondsPlayed" : 1060
+    }, {
+      "name" : "Sour Grapes",
+      "streamCount" : 5,
+      "secondsPlayed" : 980
+    }, {
+      "name" : "Whiplash",
+      "streamCount" : 5,
+      "secondsPlayed" : 915
+    }, {
+      "name" : "FEVER",
+      "streamCount" : 5,
+      "secondsPlayed" : 860
+    }, {
+      "name" : "Miniskirt",
+      "streamCount" : 4,
+      "secondsPlayed" : 716
+    }, {
+      "name" : "Ditto",
+      "streamCount" : 4,
+      "secondsPlayed" : 740
+    }, {
+      "name" : "ETA",
+      "streamCount" : 4,
+      "secondsPlayed" : 604
+    } ],
+    "topArtists" : [ {
+      "name" : "NewJeans",
+      "streamCount" : 36,
+      "secondsPlayed" : 6529
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 33,
+      "secondsPlayed" : 5680
+    }, {
+      "name" : "ENHYPEN",
+      "streamCount" : 27,
+      "secondsPlayed" : 4459
+    }, {
+      "name" : "TWICE",
+      "streamCount" : 25,
+      "secondsPlayed" : 5150
+    }, {
+      "name" : "ILLIT",
+      "streamCount" : 23,
+      "secondsPlayed" : 3439
+    }, {
+      "name" : "aespa",
+      "streamCount" : 22,
+      "secondsPlayed" : 4234
+    }, {
+      "name" : "ITZY",
+      "streamCount" : 14,
+      "secondsPlayed" : 2557
+    }, {
+      "name" : "CORTIS",
+      "streamCount" : 14,
+      "secondsPlayed" : 2330
+    }, {
+      "name" : "The Weeknd",
+      "streamCount" : 11,
+      "secondsPlayed" : 2379
+    }, {
+      "name" : "Red Velvet",
+      "streamCount" : 11,
+      "secondsPlayed" : 2105
+    } ],
+    "topGenres" : [ {
+      "name" : "k-pop",
+      "streamCount" : 319,
+      "secondsPlayed" : 58344
+    }, {
+      "name" : "pop",
+      "streamCount" : 73,
+      "secondsPlayed" : 15255
+    }, {
+      "name" : "rock",
+      "streamCount" : 52,
+      "secondsPlayed" : 11758
+    }, {
+      "name" : "throwback pop",
+      "streamCount" : 50,
+      "secondsPlayed" : 11207
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 42,
+      "secondsPlayed" : 9047
+    }, {
+      "name" : "english rock",
+      "streamCount" : 37,
+      "secondsPlayed" : 8363
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 37,
+      "secondsPlayed" : 8224
+    }, {
+      "name" : "00s pop",
+      "streamCount" : 32,
+      "secondsPlayed" : 7020
+    }, {
+      "name" : "american pop",
+      "streamCount" : 31,
+      "secondsPlayed" : 6804
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 28,
+      "secondsPlayed" : 6520
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 3431
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 28167
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 53354
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 28878
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 7807
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 206
+    } ]
+  }, {
+    "date" : "2025-11",
+    "streamCount" : 458,
+    "secondsPlayed" : 87595,
+    "topTracks" : [ {
+      "name" : "Bambi",
+      "streamCount" : 4,
+      "secondsPlayed" : 852
+    }, {
+      "name" : "Pose",
+      "streamCount" : 4,
+      "secondsPlayed" : 801
+    }, {
+      "name" : "Blue Hair",
+      "streamCount" : 4,
+      "secondsPlayed" : 701
+    }, {
+      "name" : "Lovers Rock",
+      "streamCount" : 4,
+      "secondsPlayed" : 698
+    }, {
+      "name" : "Cigarettes out the Window",
+      "streamCount" : 4,
+      "secondsPlayed" : 688
+    }, {
+      "name" : "Duvet",
+      "streamCount" : 4,
+      "secondsPlayed" : 647
+    }, {
+      "name" : "Weekend",
+      "streamCount" : 4,
+      "secondsPlayed" : 598
+    }, {
+      "name" : "OK!",
+      "streamCount" : 3,
+      "secondsPlayed" : 744
+    }, {
+      "name" : "ONLY",
+      "streamCount" : 3,
+      "secondsPlayed" : 720
+    }, {
+      "name" : "Savage",
+      "streamCount" : 3,
+      "secondsPlayed" : 714
+    } ],
+    "topArtists" : [ {
+      "name" : "TWICE",
+      "streamCount" : 21,
+      "secondsPlayed" : 4334
+    }, {
+      "name" : "TV Girl",
+      "streamCount" : 21,
+      "secondsPlayed" : 3609
+    }, {
+      "name" : "ITZY",
+      "streamCount" : 19,
+      "secondsPlayed" : 3323
+    }, {
+      "name" : "beabadoobee",
+      "streamCount" : 15,
+      "secondsPlayed" : 2605
+    }, {
+      "name" : "Charlie Brown Jr.",
+      "streamCount" : 13,
+      "secondsPlayed" : 2090
+    }, {
+      "name" : "aespa",
+      "streamCount" : 12,
+      "secondsPlayed" : 2481
+    }, {
+      "name" : "TOMORROW X TOGETHER",
+      "streamCount" : 12,
+      "secondsPlayed" : 2346
+    }, {
+      "name" : "The Neighbourhood",
+      "streamCount" : 8,
+      "secondsPlayed" : 1900
+    }, {
+      "name" : "Linkin Park",
+      "streamCount" : 8,
+      "secondsPlayed" : 1523
+    }, {
+      "name" : "ENHYPEN",
+      "streamCount" : 8,
+      "secondsPlayed" : 1496
+    } ],
+    "topGenres" : [ {
+      "name" : "k-pop",
+      "streamCount" : 152,
+      "secondsPlayed" : 30222
+    }, {
+      "name" : "indie",
+      "streamCount" : 76,
+      "secondsPlayed" : 14962
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 64,
+      "secondsPlayed" : 13086
+    }, {
+      "name" : "rock",
+      "streamCount" : 57,
+      "secondsPlayed" : 11803
+    }, {
+      "name" : "english rock",
+      "streamCount" : 38,
+      "secondsPlayed" : 8280
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 34,
+      "secondsPlayed" : 7347
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 34,
+      "secondsPlayed" : 7300
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 40,
+      "secondsPlayed" : 7084
+    }, {
+      "name" : "90s alternative",
+      "streamCount" : 23,
+      "secondsPlayed" : 5154
+    }, {
+      "name" : "bedroom pop",
+      "streamCount" : 29,
+      "secondsPlayed" : 5100
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 1722
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 67473
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 8002
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 4423
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 2738
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 3228
+    } ]
+  }, {
+    "date" : "2025-10",
+    "streamCount" : 798,
+    "secondsPlayed" : 149322,
+    "topTracks" : [ {
+      "name" : "HONEY",
+      "streamCount" : 7,
+      "secondsPlayed" : 1162
+    }, {
+      "name" : "Lovers Rock",
+      "streamCount" : 6,
+      "secondsPlayed" : 1279
+    }, {
+      "name" : "Good Feeling",
+      "streamCount" : 6,
+      "secondsPlayed" : 1250
+    }, {
+      "name" : "Duvet",
+      "streamCount" : 6,
+      "secondsPlayed" : 1218
+    }, {
+      "name" : "Dark Horse",
+      "streamCount" : 6,
+      "secondsPlayed" : 1163
+    }, {
+      "name" : "Perfect World",
+      "streamCount" : 6,
+      "secondsPlayed" : 1093
+    }, {
+      "name" : "ELEVEN",
+      "streamCount" : 6,
+      "secondsPlayed" : 1068
+    }, {
+      "name" : "Pump It",
+      "streamCount" : 6,
+      "secondsPlayed" : 1054
+    }, {
+      "name" : "TiK ToK",
+      "streamCount" : 6,
+      "secondsPlayed" : 910
+    }, {
+      "name" : "ONLY",
+      "streamCount" : 5,
+      "secondsPlayed" : 1151
+    } ],
+    "topArtists" : [ {
+      "name" : "TWICE",
+      "streamCount" : 29,
+      "secondsPlayed" : 5656
+    }, {
+      "name" : "aespa",
+      "streamCount" : 26,
+      "secondsPlayed" : 5267
+    }, {
+      "name" : "ENHYPEN",
+      "streamCount" : 21,
+      "secondsPlayed" : 3796
+    }, {
+      "name" : "NewJeans",
+      "streamCount" : 20,
+      "secondsPlayed" : 3421
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 20,
+      "secondsPlayed" : 3293
+    }, {
+      "name" : "ITZY",
+      "streamCount" : 20,
+      "secondsPlayed" : 3172
+    }, {
+      "name" : "beabadoobee",
+      "streamCount" : 19,
+      "secondsPlayed" : 3282
+    }, {
+      "name" : "BLACKPINK",
+      "streamCount" : 18,
+      "secondsPlayed" : 3217
+    }, {
+      "name" : "TOMORROW X TOGETHER",
+      "streamCount" : 17,
+      "secondsPlayed" : 3034
+    }, {
+      "name" : "Pitbull",
+      "streamCount" : 20,
+      "secondsPlayed" : 4367
+    } ],
+    "topGenres" : [ {
+      "name" : "k-pop",
+      "streamCount" : 337,
+      "secondsPlayed" : 70811
+    }, {
+      "name" : "pop",
+      "streamCount" : 146,
+      "secondsPlayed" : 32062
+    }, {
+      "name" : "throwback pop",
+      "streamCount" : 102,
+      "secondsPlayed" : 24220
+    }, {
+      "name" : "american pop",
+      "streamCount" : 91,
+      "secondsPlayed" : 20169
+    }, {
+      "name" : "dance pop",
+      "streamCount" : 81,
+      "secondsPlayed" : 18570
+    }, {
+      "name" : "00s pop",
+      "streamCount" : 80,
+      "secondsPlayed" : 18235
+    }, {
+      "name" : "indie",
+      "streamCount" : 72,
+      "secondsPlayed" : 14287
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 45,
+      "secondsPlayed" : 8586
+    }, {
+      "name" : "pop rap",
+      "streamCount" : 37,
+      "secondsPlayed" : 7523
+    }, {
+      "name" : "bubblegum pop",
+      "streamCount" : 34,
+      "secondsPlayed" : 6698
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 10608
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 77156
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 15377
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 23370
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 21669
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 1118
+    } ]
+  }, {
+    "date" : "2025-09",
+    "streamCount" : 1232,
+    "secondsPlayed" : 235068,
+    "topTracks" : [ {
+      "name" : "Blue Hair",
+      "streamCount" : 9,
+      "secondsPlayed" : 1905
+    }, {
+      "name" : "Hot N Cold",
+      "streamCount" : 8,
+      "secondsPlayed" : 1760
+    }, {
+      "name" : "Babydoll",
+      "streamCount" : 8,
+      "secondsPlayed" : 742
+    }, {
+      "name" : "Out of My League",
+      "streamCount" : 7,
+      "secondsPlayed" : 1463
+    }, {
+      "name" : "Duvet",
+      "streamCount" : 7,
+      "secondsPlayed" : 1187
+    }, {
+      "name" : "Lovers Rock",
+      "streamCount" : 6,
+      "secondsPlayed" : 1102
+    }, {
+      "name" : "I CAN'T STOP ME",
+      "streamCount" : 6,
+      "secondsPlayed" : 1228
+    }, {
+      "name" : "LOCO",
+      "streamCount" : 6,
+      "secondsPlayed" : 1146
+    }, {
+      "name" : "Good Girls (Don’t Get Used)",
+      "streamCount" : 6,
+      "secondsPlayed" : 1114
+    }, {
+      "name" : "On The Floor - Radio Edit",
+      "streamCount" : 6,
+      "secondsPlayed" : 1086
+    } ],
+    "topArtists" : [ {
+      "name" : "TWICE",
+      "streamCount" : 56,
+      "secondsPlayed" : 11060
+    }, {
+      "name" : "ITZY",
+      "streamCount" : 35,
+      "secondsPlayed" : 5928
+    }, {
+      "name" : "NewJeans",
+      "streamCount" : 35,
+      "secondsPlayed" : 5872
+    }, {
+      "name" : "beabadoobee",
+      "streamCount" : 34,
+      "secondsPlayed" : 5808
+    }, {
+      "name" : "ENHYPEN",
+      "streamCount" : 33,
+      "secondsPlayed" : 5109
+    }, {
+      "name" : "aespa",
+      "streamCount" : 30,
+      "secondsPlayed" : 6010
+    }, {
+      "name" : "TV Girl",
+      "streamCount" : 24,
+      "secondsPlayed" : 4807
+    }, {
+      "name" : "The Neighbourhood",
+      "streamCount" : 22,
+      "secondsPlayed" : 4885
+    }, {
+      "name" : "BTS",
+      "streamCount" : 22,
+      "secondsPlayed" : 4518
+    }, {
+      "name" : "Arctic Monkeys",
+      "streamCount" : 22,
+      "secondsPlayed" : 4177
+    } ],
+    "topGenres" : [ {
+      "name" : "k-pop",
+      "streamCount" : 414,
+      "secondsPlayed" : 82161
+    }, {
+      "name" : "indie",
+      "streamCount" : 183,
+      "secondsPlayed" : 37984
+    }, {
+      "name" : "pop",
+      "streamCount" : 162,
+      "secondsPlayed" : 37274
+    }, {
+      "name" : "throwback pop",
+      "streamCount" : 83,
+      "secondsPlayed" : 23079
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 104,
+      "secondsPlayed" : 19660
+    }, {
+      "name" : "rock",
+      "streamCount" : 85,
+      "secondsPlayed" : 17466
+    }, {
+      "name" : "00s pop",
+      "streamCount" : 59,
+      "secondsPlayed" : 17055
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 74,
+      "secondsPlayed" : 15188
+    }, {
+      "name" : "american pop",
+      "streamCount" : 57,
+      "secondsPlayed" : 14304
+    }, {
+      "name" : "bedroom pop",
+      "streamCount" : 73,
+      "secondsPlayed" : 13903
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-08",
+    "streamCount" : 1303,
+    "secondsPlayed" : 246650,
+    "topTracks" : [ {
+      "name" : "I Miss You",
+      "streamCount" : 20,
+      "secondsPlayed" : 4335
+    }, {
+      "name" : "like JENNIE",
+      "streamCount" : 11,
+      "secondsPlayed" : 1322
+    }, {
+      "name" : "Prom Queen",
+      "streamCount" : 8,
+      "secondsPlayed" : 1136
+    }, {
+      "name" : "Ditto",
+      "streamCount" : 7,
+      "secondsPlayed" : 1295
+    }, {
+      "name" : "OMG",
+      "streamCount" : 7,
+      "secondsPlayed" : 1484
+    }, {
+      "name" : "Gabriela",
+      "streamCount" : 7,
+      "secondsPlayed" : 1279
+    }, {
+      "name" : "Duvet",
+      "streamCount" : 6,
+      "secondsPlayed" : 1218
+    }, {
+      "name" : "Apple Cider",
+      "streamCount" : 6,
+      "secondsPlayed" : 1068
+    }, {
+      "name" : "Blue Hair",
+      "streamCount" : 6,
+      "secondsPlayed" : 1226
+    }, {
+      "name" : "Armageddon",
+      "streamCount" : 6,
+      "secondsPlayed" : 1176
+    } ],
+    "topArtists" : [ {
+      "name" : "NewJeans",
+      "streamCount" : 39,
+      "secondsPlayed" : 6772
+    }, {
+      "name" : "RADWIMPS",
+      "streamCount" : 37,
+      "secondsPlayed" : 8890
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 33,
+      "secondsPlayed" : 5568
+    }, {
+      "name" : "aespa",
+      "streamCount" : 30,
+      "secondsPlayed" : 5683
+    }, {
+      "name" : "LISA",
+      "streamCount" : 29,
+      "secondsPlayed" : 5128
+    }, {
+      "name" : "BLACKPINK",
+      "streamCount" : 29,
+      "secondsPlayed" : 5137
+    }, {
+      "name" : "KATSEYE",
+      "streamCount" : 27,
+      "secondsPlayed" : 4073
+    }, {
+      "name" : "TWICE",
+      "streamCount" : 26,
+      "secondsPlayed" : 4882
+    }, {
+      "name" : "blink-182",
+      "streamCount" : 25,
+      "secondsPlayed" : 5196
+    }, {
+      "name" : "TV Girl",
+      "streamCount" : 25,
+      "secondsPlayed" : 4810
+    } ],
+    "topGenres" : [ {
+      "name" : "k-pop",
+      "streamCount" : 441,
+      "secondsPlayed" : 79028
+    }, {
+      "name" : "j-pop",
+      "streamCount" : 133,
+      "secondsPlayed" : 31621
+    }, {
+      "name" : "indie",
+      "streamCount" : 140,
+      "secondsPlayed" : 27726
+    }, {
+      "name" : "rock",
+      "streamCount" : 103,
+      "secondsPlayed" : 26403
+    }, {
+      "name" : "pop",
+      "streamCount" : 132,
+      "secondsPlayed" : 23302
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 92,
+      "secondsPlayed" : 23195
+    }, {
+      "name" : "anime",
+      "streamCount" : 84,
+      "secondsPlayed" : 20033
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 64,
+      "secondsPlayed" : 17765
+    }, {
+      "name" : "english rock",
+      "streamCount" : 75,
+      "secondsPlayed" : 16785
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 66,
+      "secondsPlayed" : 15037
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-07",
+    "streamCount" : 430,
+    "secondsPlayed" : 80828,
+    "topTracks" : [ {
+      "name" : "ANTIFRAGILE",
+      "streamCount" : 5,
+      "secondsPlayed" : 800
+    }, {
+      "name" : "Gabriela",
+      "streamCount" : 5,
+      "secondsPlayed" : 985
+    }, {
+      "name" : "Touch",
+      "streamCount" : 5,
+      "secondsPlayed" : 645
+    }, {
+      "name" : "Rewind",
+      "streamCount" : 4,
+      "secondsPlayed" : 730
+    }, {
+      "name" : "Golden",
+      "streamCount" : 4,
+      "secondsPlayed" : 655
+    }, {
+      "name" : "Rover",
+      "streamCount" : 4,
+      "secondsPlayed" : 696
+    }, {
+      "name" : "CRAZY",
+      "streamCount" : 4,
+      "secondsPlayed" : 656
+    }, {
+      "name" : "Perfect Night",
+      "streamCount" : 3,
+      "secondsPlayed" : 477
+    }, {
+      "name" : "Tick-Tack",
+      "streamCount" : 3,
+      "secondsPlayed" : 387
+    }, {
+      "name" : "What is Love?",
+      "streamCount" : 3,
+      "secondsPlayed" : 624
+    } ],
+    "topArtists" : [ {
+      "name" : "TWICE",
+      "streamCount" : 23,
+      "secondsPlayed" : 4404
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 22,
+      "secondsPlayed" : 3465
+    }, {
+      "name" : "KATSEYE",
+      "streamCount" : 21,
+      "secondsPlayed" : 3032
+    }, {
+      "name" : "NewJeans",
+      "streamCount" : 13,
+      "secondsPlayed" : 2165
+    }, {
+      "name" : "ギヴン",
+      "streamCount" : 10,
+      "secondsPlayed" : 2078
+    }, {
+      "name" : "TOMORROW X TOGETHER",
+      "streamCount" : 10,
+      "secondsPlayed" : 1634
+    }, {
+      "name" : "ENHYPEN",
+      "streamCount" : 10,
+      "secondsPlayed" : 1530
+    }, {
+      "name" : "Charlie Brown Jr.",
+      "streamCount" : 9,
+      "secondsPlayed" : 1680
+    }, {
+      "name" : "HUNTR/X",
+      "streamCount" : 9,
+      "secondsPlayed" : 1437
+    }, {
+      "name" : "Chase Atlantic",
+      "streamCount" : 8,
+      "secondsPlayed" : 1845
+    } ],
+    "topGenres" : [ {
+      "name" : "k-pop",
+      "streamCount" : 196,
+      "secondsPlayed" : 36266
+    }, {
+      "name" : "rock",
+      "streamCount" : 69,
+      "secondsPlayed" : 15606
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 59,
+      "secondsPlayed" : 12782
+    }, {
+      "name" : "english rock",
+      "streamCount" : 54,
+      "secondsPlayed" : 12164
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 48,
+      "secondsPlayed" : 11338
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 39,
+      "secondsPlayed" : 8894
+    }, {
+      "name" : "pop",
+      "streamCount" : 46,
+      "secondsPlayed" : 8696
+    }, {
+      "name" : "90s alternative",
+      "streamCount" : 23,
+      "secondsPlayed" : 5418
+    }, {
+      "name" : "90s rock",
+      "streamCount" : 23,
+      "secondsPlayed" : 5317
+    }, {
+      "name" : "rock and roll",
+      "streamCount" : 21,
+      "secondsPlayed" : 5265
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-06",
+    "streamCount" : 563,
+    "secondsPlayed" : 112088,
+    "topTracks" : [ {
+      "name" : "Duvet",
+      "streamCount" : 6,
+      "secondsPlayed" : 1218
+    }, {
+      "name" : "we fell in love in october",
+      "streamCount" : 6,
+      "secondsPlayed" : 1030
+    }, {
+      "name" : "Lovers Rock",
+      "streamCount" : 5,
+      "secondsPlayed" : 1065
+    }, {
+      "name" : "Prom Queen",
+      "streamCount" : 5,
+      "secondsPlayed" : 680
+    }, {
+      "name" : "Out of My League",
+      "streamCount" : 5,
+      "secondsPlayed" : 1045
+    }, {
+      "name" : "Always Forever",
+      "streamCount" : 5,
+      "secondsPlayed" : 1115
+    }, {
+      "name" : "Sweater Weather",
+      "streamCount" : 5,
+      "secondsPlayed" : 1200
+    }, {
+      "name" : "Consume (feat. Goon Des Garcons)",
+      "streamCount" : 5,
+      "secondsPlayed" : 1140
+    }, {
+      "name" : "Blue Hair",
+      "streamCount" : 4,
+      "secondsPlayed" : 779
+    }, {
+      "name" : "Notion",
+      "streamCount" : 4,
+      "secondsPlayed" : 737
+    } ],
+    "topArtists" : [ {
+      "name" : "The Neighbourhood",
+      "streamCount" : 26,
+      "secondsPlayed" : 5901
+    }, {
+      "name" : "beabadoobee",
+      "streamCount" : 22,
+      "secondsPlayed" : 3704
+    }, {
+      "name" : "TV Girl",
+      "streamCount" : 17,
+      "secondsPlayed" : 3460
+    }, {
+      "name" : "Lana Del Rey",
+      "streamCount" : 15,
+      "secondsPlayed" : 3580
+    }, {
+      "name" : "bôa",
+      "streamCount" : 11,
+      "secondsPlayed" : 2226
+    }, {
+      "name" : "The Marías",
+      "streamCount" : 10,
+      "secondsPlayed" : 2475
+    }, {
+      "name" : "Doja Cat",
+      "streamCount" : 10,
+      "secondsPlayed" : 1982
+    }, {
+      "name" : "aespa",
+      "streamCount" : 10,
+      "secondsPlayed" : 1881
+    }, {
+      "name" : "girl in red",
+      "streamCount" : 10,
+      "secondsPlayed" : 1797
+    }, {
+      "name" : "Arctic Monkeys",
+      "streamCount" : 8,
+      "secondsPlayed" : 1927
+    } ],
+    "topGenres" : [ {
+      "name" : "indie",
+      "streamCount" : 112,
+      "secondsPlayed" : 22175
+    }, {
+      "name" : "rock",
+      "streamCount" : 72,
+      "secondsPlayed" : 16505
+    }, {
+      "name" : "english rock",
+      "streamCount" : 62,
+      "secondsPlayed" : 14676
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 79,
+      "secondsPlayed" : 14113
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 61,
+      "secondsPlayed" : 13140
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 52,
+      "secondsPlayed" : 12006
+    }, {
+      "name" : "pop",
+      "streamCount" : 59,
+      "secondsPlayed" : 11602
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 60,
+      "secondsPlayed" : 10614
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 47,
+      "secondsPlayed" : 10444
+    }, {
+      "name" : "bedroom pop",
+      "streamCount" : 46,
+      "secondsPlayed" : 8694
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-05",
+    "streamCount" : 351,
+    "secondsPlayed" : 67475,
+    "topTracks" : [ {
+      "name" : "You're Gonna Go Far, Kid",
+      "streamCount" : 3,
+      "secondsPlayed" : 531
+    }, {
+      "name" : "American Idiot",
+      "streamCount" : 3,
+      "secondsPlayed" : 528
+    }, {
+      "name" : "Lovers Rock",
+      "streamCount" : 3,
+      "secondsPlayed" : 625
+    }, {
+      "name" : "Not Allowed",
+      "streamCount" : 3,
+      "secondsPlayed" : 501
+    }, {
+      "name" : "You Get Me So High",
+      "streamCount" : 3,
+      "secondsPlayed" : 459
+    }, {
+      "name" : "When I Come Around",
+      "streamCount" : 3,
+      "secondsPlayed" : 355
+    }, {
+      "name" : "Dirty Little Secret",
+      "streamCount" : 3,
+      "secondsPlayed" : 192
+    }, {
+      "name" : "Disco",
+      "streamCount" : 3,
+      "secondsPlayed" : 366
+    }, {
+      "name" : "Bring Me To Life",
+      "streamCount" : 2,
+      "secondsPlayed" : 470
+    }, {
+      "name" : "Sweater Weather",
+      "streamCount" : 2,
+      "secondsPlayed" : 480
+    } ],
+    "topArtists" : [ {
+      "name" : "The Neighbourhood",
+      "streamCount" : 12,
+      "secondsPlayed" : 2459
+    }, {
+      "name" : "Lana Del Rey",
+      "streamCount" : 12,
+      "secondsPlayed" : 3073
+    }, {
+      "name" : "Green Day",
+      "streamCount" : 10,
+      "secondsPlayed" : 1871
+    }, {
+      "name" : "System Of A Down",
+      "streamCount" : 9,
+      "secondsPlayed" : 1736
+    }, {
+      "name" : "girl in red",
+      "streamCount" : 8,
+      "secondsPlayed" : 1541
+    }, {
+      "name" : "TV Girl",
+      "streamCount" : 7,
+      "secondsPlayed" : 1331
+    }, {
+      "name" : "beabadoobee",
+      "streamCount" : 7,
+      "secondsPlayed" : 1122
+    }, {
+      "name" : "Nirvana",
+      "streamCount" : 6,
+      "secondsPlayed" : 1357
+    }, {
+      "name" : "Beach Bunny",
+      "streamCount" : 6,
+      "secondsPlayed" : 1023
+    }, {
+      "name" : "The Weeknd",
+      "streamCount" : 6,
+      "secondsPlayed" : 1469
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 65,
+      "secondsPlayed" : 13030
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 59,
+      "secondsPlayed" : 12029
+    }, {
+      "name" : "indie",
+      "streamCount" : 55,
+      "secondsPlayed" : 10572
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 44,
+      "secondsPlayed" : 9490
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 43,
+      "secondsPlayed" : 8939
+    }, {
+      "name" : "english rock",
+      "streamCount" : 39,
+      "secondsPlayed" : 8559
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 39,
+      "secondsPlayed" : 6873
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 34,
+      "secondsPlayed" : 6069
+    }, {
+      "name" : "pop",
+      "streamCount" : 26,
+      "secondsPlayed" : 5422
+    }, {
+      "name" : "punk",
+      "streamCount" : 27,
+      "secondsPlayed" : 4875
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-04",
+    "streamCount" : 430,
+    "secondsPlayed" : 82148,
+    "topTracks" : [ {
+      "name" : "Bad Habit",
+      "streamCount" : 4,
+      "secondsPlayed" : 695
+    }, {
+      "name" : "Real Man",
+      "streamCount" : 4,
+      "secondsPlayed" : 640
+    }, {
+      "name" : "One Last Kiss",
+      "streamCount" : 3,
+      "secondsPlayed" : 753
+    }, {
+      "name" : "Fetish (feat. Gucci Mane)",
+      "streamCount" : 3,
+      "secondsPlayed" : 541
+    }, {
+      "name" : "the perfect pair",
+      "streamCount" : 3,
+      "secondsPlayed" : 531
+    }, {
+      "name" : "Mayonaka no Door / Stay With Me",
+      "streamCount" : 3,
+      "secondsPlayed" : 936
+    }, {
+      "name" : "Good Girls (Don’t Get Used)",
+      "streamCount" : 3,
+      "secondsPlayed" : 430
+    }, {
+      "name" : "Equalize",
+      "streamCount" : 3,
+      "secondsPlayed" : 463
+    }, {
+      "name" : "Company",
+      "streamCount" : 3,
+      "secondsPlayed" : 557
+    }, {
+      "name" : "Juna",
+      "streamCount" : 3,
+      "secondsPlayed" : 389
+    } ],
+    "topArtists" : [ {
+      "name" : "The Weeknd",
+      "streamCount" : 18,
+      "secondsPlayed" : 4010
+    }, {
+      "name" : "beabadoobee",
+      "streamCount" : 17,
+      "secondsPlayed" : 2977
+    }, {
+      "name" : "Doja Cat",
+      "streamCount" : 8,
+      "secondsPlayed" : 1592
+    }, {
+      "name" : "Beach Bunny",
+      "streamCount" : 8,
+      "secondsPlayed" : 1160
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 7,
+      "secondsPlayed" : 1061
+    }, {
+      "name" : "NewJeans",
+      "streamCount" : 7,
+      "secondsPlayed" : 1153
+    }, {
+      "name" : "Clairo",
+      "streamCount" : 7,
+      "secondsPlayed" : 1101
+    }, {
+      "name" : "Billie Eilish",
+      "streamCount" : 6,
+      "secondsPlayed" : 1100
+    }, {
+      "name" : "Miki Matsubara",
+      "streamCount" : 5,
+      "secondsPlayed" : 1538
+    }, {
+      "name" : "Green Day",
+      "streamCount" : 5,
+      "secondsPlayed" : 1348
+    } ],
+    "topGenres" : [ {
+      "name" : "j-pop",
+      "streamCount" : 49,
+      "secondsPlayed" : 12266
+    }, {
+      "name" : "indie",
+      "streamCount" : 48,
+      "secondsPlayed" : 9276
+    }, {
+      "name" : "city pop",
+      "streamCount" : 36,
+      "secondsPlayed" : 8983
+    }, {
+      "name" : "pop",
+      "streamCount" : 44,
+      "secondsPlayed" : 8597
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 50,
+      "secondsPlayed" : 8566
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 46,
+      "secondsPlayed" : 7985
+    }, {
+      "name" : "bedroom pop",
+      "streamCount" : 34,
+      "secondsPlayed" : 6104
+    }, {
+      "name" : "japanese jazz",
+      "streamCount" : 22,
+      "secondsPlayed" : 5699
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 21,
+      "secondsPlayed" : 4932
+    }, {
+      "name" : "rock",
+      "streamCount" : 20,
+      "secondsPlayed" : 4853
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-03",
+    "streamCount" : 668,
+    "secondsPlayed" : 129693,
+    "topTracks" : [ {
+      "name" : "Juna",
+      "streamCount" : 10,
+      "secondsPlayed" : 1949
+    }, {
+      "name" : "Best of You",
+      "streamCount" : 9,
+      "secondsPlayed" : 2295
+    }, {
+      "name" : "From The Start",
+      "streamCount" : 9,
+      "secondsPlayed" : 1337
+    }, {
+      "name" : "Unforgettable",
+      "streamCount" : 8,
+      "secondsPlayed" : 1773
+    }, {
+      "name" : "Moonlight",
+      "streamCount" : 8,
+      "secondsPlayed" : 1494
+    }, {
+      "name" : "Not Allowed",
+      "streamCount" : 8,
+      "secondsPlayed" : 1337
+    }, {
+      "name" : "Real Man",
+      "streamCount" : 8,
+      "secondsPlayed" : 1281
+    }, {
+      "name" : "Fetish (feat. Gucci Mane)",
+      "streamCount" : 7,
+      "secondsPlayed" : 1146
+    }, {
+      "name" : "Black Mamba",
+      "streamCount" : 7,
+      "secondsPlayed" : 1218
+    }, {
+      "name" : "Everlong",
+      "streamCount" : 7,
+      "secondsPlayed" : 1673
+    } ],
+    "topArtists" : [ {
+      "name" : "The Weeknd",
+      "streamCount" : 43,
+      "secondsPlayed" : 10028
+    }, {
+      "name" : "aespa",
+      "streamCount" : 28,
+      "secondsPlayed" : 5350
+    }, {
+      "name" : "Foo Fighters",
+      "streamCount" : 22,
+      "secondsPlayed" : 5202
+    }, {
+      "name" : "beabadoobee",
+      "streamCount" : 22,
+      "secondsPlayed" : 3632
+    }, {
+      "name" : "Green Day",
+      "streamCount" : 20,
+      "secondsPlayed" : 4307
+    }, {
+      "name" : "Clairo",
+      "streamCount" : 16,
+      "secondsPlayed" : 2901
+    }, {
+      "name" : "NewJeans",
+      "streamCount" : 14,
+      "secondsPlayed" : 2266
+    }, {
+      "name" : "Red Hot Chili Peppers",
+      "streamCount" : 12,
+      "secondsPlayed" : 3111
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 11,
+      "secondsPlayed" : 1713
+    }, {
+      "name" : "Drake",
+      "streamCount" : 13,
+      "secondsPlayed" : 2958
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 98,
+      "secondsPlayed" : 24046
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 126,
+      "secondsPlayed" : 22973
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 93,
+      "secondsPlayed" : 21933
+    }, {
+      "name" : "english rock",
+      "streamCount" : 79,
+      "secondsPlayed" : 20040
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 80,
+      "secondsPlayed" : 19597
+    }, {
+      "name" : "dad rock",
+      "streamCount" : 73,
+      "secondsPlayed" : 18066
+    }, {
+      "name" : "pop",
+      "streamCount" : 74,
+      "secondsPlayed" : 16995
+    }, {
+      "name" : "r&b",
+      "streamCount" : 57,
+      "secondsPlayed" : 11085
+    }, {
+      "name" : "punk",
+      "streamCount" : 39,
+      "secondsPlayed" : 8867
+    }, {
+      "name" : "90s rock",
+      "streamCount" : 35,
+      "secondsPlayed" : 8706
+    } ],
+    "timeOfDayStats" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-01-18",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "NewJeans",
+      "topPercentile" : 0.04358253038844785
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZEVXcXHWVVT0lfDq",
+      "listeningPercentage" : 46.89733408961997
+    }
+  }, {
+    "date" : "2026-01",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "MONEY",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 2
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "party \uD83E\uDEA9✨",
+      "listeningPercentage" : 35.51817111609007
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Nothing Breaks Like a Heart - Spotify Singles",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "GO!",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "best of kpop 2021",
+      "milestoneListeningSeconds" : 27459
+    }
+  }, {
+    "date" : "2025-12",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Pesadelo",
+      "country" : "BR",
+      "position" : 6520
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Weekend",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Green Day",
+      "topPercentile" : 0.09611406586385005
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "comfortable \uD83E\uDDF8\uD83C\uDF43\uD83C\uDF37",
+      "listeningPercentage" : 75.65595134665509
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "TV Girl",
+      "topPercentile" : 0.02556150277401616
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Beach Bunny",
+      "topPercentile" : 0.0954864310053539
+    }
+  }, {
+    "date" : "2025-11",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Starboy",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "HONEY",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "kpop ",
+      "listeningPercentage" : 59.72568052331716
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Lovers Rock",
+      "topPercentile" : 0.0340985546249681
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "best of kpop 2021",
+      "listeningPercentage" : 30.11295922068501
+    }
+  }, {
+    "date" : "2025-10",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Reminder",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "TWICE", "ITZY", "aespa", "I CAN'T STOP ME", "Doughnut", "Savage", "Panorama", "Hello Future", "Dun Dun Dance" ],
+      "milestoneListeningSeconds" : 49783
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "The Neighbourhood",
+      "topPercentile" : 0.028017258730881924
+    }
+  }, {
+    "date" : "2025-09-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "LE SSERAFIM",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-09-07",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Katy Perry", "Pitbull", "Britney Spears", "Hot N Cold", "I Gotta Feeling", "Scream & Shout", "Last Friday Night (T.G.I.F.)", "On The Floor - Radio Edit", "Promiscuous" ],
+      "milestoneListeningSeconds" : 44401
+    }
+  }, {
+    "date" : "2025-09",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "LO$ER=LO♡ER",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-08-31",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Bob Marley & The Wailers",
+      "secondEntity" : "SUNYOUL(UP10TION)"
+    }
+  }, {
+    "date" : "2025-08-24",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Basket Case",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-08-17",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "like JENNIE",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2025-08-10",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "I Miss You",
+      "streamCount" : 20
+    }
+  }, {
+    "date" : "2025-08-03",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "NAYEON",
+      "topPercentile" : 0.03186305959509552
+    }
+  }, {
+    "date" : "2025-08",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "like JENNIE",
+      "streamCount" : 10
+    }
+  }, {
+    "date" : "2025-07-27",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "ギヴン",
+      "topPercentile" : 0.04158188625953489
+    }
+  }, {
+    "date" : "2025-07-20",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Sugarcoat (NATTY Solo)",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  } ]
+}
