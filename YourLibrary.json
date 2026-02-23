@@ -1,0 +1,21 @@
+{
+  "tracks" : [ {
+    "artist" : "G-Nat!on",
+    "album" : "G-Nat!on: The Complete Collection",
+    "track" : "Teeth - The Voice Australia 2021 Performance / Live",
+    "uri" : "spotify:track:51zLsnv6KcArkp2WtOIsmx"
+  } ],
+  "albums" : [ ],
+  "shows" : [ ],
+  "episodes" : [ ],
+  "bannedTracks" : [ {
+    "artist" : "Niack",
+    "album" : "Na Raba Toma Tapão",
+    "track" : "Na Raba Toma Tapão",
+    "uri" : "spotify:track:0AGS6ZRgzobrazmCi6pYMe"
+  } ],
+  "artists" : [ ],
+  "bannedArtists" : [ ],
+  "pageMatch" : [ ],
+  "other" : [ ]
+}
