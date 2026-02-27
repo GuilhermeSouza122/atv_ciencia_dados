@@ -107,9 +107,9 @@ else:
 #Feature Importance - O que a IA considera mais importante para classificar uma música como feliz ou triste?
 print("\nCalculando a Importância das Variáveis.")
 
-importancias = modelo_rf.feature_importances_
+imports = modelo_rf.feature_importances_
 
-df_import = pd.DataFrame({'Feature': features, 'Importancia': importancias})
+df_import = pd.DataFrame({'Feature': features, 'Importancia': imports})
 df_import = df_import.sort_values(by='Importancia', ascending=False)
 
 print()
