@@ -29,7 +29,7 @@ y = df_model['emotion']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
 print("Treino da Inteligência Artificial (Random Forest).")
-# 100 árvores de decisão
+# 100 árvores de decisão, 42 para reprodutibilidade, n_jobs=-1 para usar todos os núcleos do processador
 modelo_rf = RandomForestClassifier(n_estimators=100, random_state=42, n_jobs=-1)
 modelo_rf.fit(X_train, y_train)
 
