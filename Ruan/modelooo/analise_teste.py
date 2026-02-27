@@ -1,107 +1,103 @@
 import pandas as pd
 import numpy as np
 import json
-import spotipy
-from spotipy.oauth2 import SpotifyClientCredentials
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import classification_report, roc_auc_score, confusion_matrix
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, accuracy_score
+import os
 
-CLIENT_ID = '5cfa34daba304d2fa09b386d91e2d786'
-CLIENT_SECRET = 'b77e1d9e4cc445988cae9a1abfa8166e'
+print("Carregar o Dataset Global")
+pasta_atual = os.path.dirname(os.path.abspath(__file__))
 
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET))
+caminho_csv = os.path.join(pasta_atual, 'dataset.csv')
+caminho_json = os.path.join(pasta_atual, 'YourSoundCapsule.json')
 
-caminho_json = r'C:\Users\ruanlourenco-ieg\OneDrive - Instituto Germinare\Área de Trabalho\3ano\Ciencia de Dados\atv_ciencia_dados\Ruan\YourSoundCapsule.json'
-caminho_csv = r'C:\Users\ruanlourenco-ieg\OneDrive - Instituto Germinare\Área de Trabalho\3ano\Ciencia de Dados\atv_ciencia_dados\Ruan\dataset.csv'
+df_kaggle = pd.read_csv(caminho_csv)
 
+
+df_model = df_kaggle[(df_kaggle['valence'] < 0.4) | (df_kaggle['valence'] > 0.6)].copy()
+df_model['emotion'] = np.where(df_model['valence'] > 0.6, 1, 0) # 1 = Feliz, 0 = Triste
+
+features = ['tempo', 'energy', 'loudness', 'danceability', 'acousticness']
+
+X = df_model[features]
+y = df_model['emotion']
+
+#  70%  treino 30%  teste
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+print("Treinando Inteligência Artificial (Random Forest)... Isso pode levar alguns segundos.")
+# 100 árvores de decisão
+modelo_rf = RandomForestClassifier(n_estimators=100, random_state=42, n_jobs=-1)
+modelo_rf.fit(X_train, y_train)
+
+y_pred_global = modelo_rf.predict(X_test)
+
+print()
+print("Desempenho do Modelo no Dataset Global")
+print()
+print(classification_report(y_test, y_pred_global))
+print(f"Acurácia Geral do Modelo: {accuracy_score(y_test, y_pred_global)*100:.2f}%")
+
+
+print("\nLer histórico musical")
 with open(caminho_json, encoding='utf-8') as f:
     capsule_data = json.load(f)
 
 historico = []
 for stat in capsule_data['stats']:
     for track in stat.get('topTracks', []):
-        historico.append({
-            'track_name': track['name'],
-            'streamCount': track['streamCount']
-        })
+        historico.append({'track_name': track['name']})
 
-df_historico = pd.DataFrame(historico)
-df_historico = df_historico.groupby('track_name', as_index=False).sum()
+df_user = pd.DataFrame(historico).drop_duplicates()
 
-df_top_historico = df_historico.sort_values(by='streamCount', ascending=False).head(500).copy()
+df_user['match_name'] = df_user['track_name'].str.lower().str.strip()
+df_kaggle['match_name'] = df_kaggle['track_name'].astype(str).str.lower().str.strip()
 
-def obter_spotify_id(track_name):
-    try:
-        resultados = sp.search(q=track_name, type='track', limit=1)
-        if resultados['tracks']['items']:
-            return resultados['tracks']['items'][0]['id']
-    except Exception as e:
-        pass
-    return None
+df_kaggle_unique = df_kaggle.drop_duplicates(subset=['match_name']).copy()
 
-df_top_historico['track_id'] = df_top_historico['track_name'].apply(obter_spotify_id)
-df_top_historico = df_top_historico.dropna(subset=['track_id'])
+# Cruzando do JSON com as features do CSV, pois a api do spotify não estava funcionando, peguei um dataset de 114 mil músicas para ter as informações
+df_suas_musicas = pd.merge(df_user, df_kaggle_unique, on='match_name', how='inner')
 
-df_kaggle = pd.read_csv(caminho_csv)
-df_kaggle = df_kaggle.drop_duplicates(subset=['track_id'])
+df_suas_musicas = df_suas_musicas.rename(columns={'track_name_x': 'track_name'})
 
-df_final = pd.merge(df_top_historico, df_kaggle, on='track_id', how='inner')
+print(f"Encontradas {len(df_suas_musicas)} músicas no banco de dados.")
 
-df_final = df_final.rename(columns={'track_name_x': 'track_name'})
-
-
-if len(df_final) > 10:
-    df_model = df_final[(df_final['valence'] < 0.4) | (df_final['valence'] > 0.6)].copy()
+if len(df_suas_musicas) > 0:
+    X_suas_musicas = df_suas_musicas[features]
     
-    df_model['emotion'] = np.where(df_model['valence'] > 0.6, 1, 0)
-    df_model['rotulo_emocao'] = np.where(df_model['valence'] > 0.6, 'Feliz', 'Triste')
+    suas_previsoes = modelo_rf.predict(X_suas_musicas)
+    suas_probabilidades = modelo_rf.predict_proba(X_suas_musicas)[:, 1]
     
-    features = ['tempo', 'energy', 'loudness']
+    df_suas_musicas['Previsao_Modelo'] = ['Feliz' if p == 1 else 'Triste' for p in suas_previsoes]
+    df_suas_musicas['Certeza_%'] = (np.where(suas_previsoes == 1, suas_probabilidades, 1 - suas_probabilidades) * 100).round(2)
     
-    df_train, df_test = train_test_split(df_model, test_size=0.3, random_state=42)
-    
-    X_train = df_train[features]
-    y_train = df_train['emotion']
-    X_test = df_test[features]
-    y_test = df_test['emotion']
-
-    model = LogisticRegression()
-    model.fit(X_train, y_train)
-
-    y_pred = model.predict(X_test)
-    y_proba = model.predict_proba(X_test)[:, 1]
-
-    print("\n" + "="*40)
-    print("--- RESULTADOS DO MODELO ---")
-    print("="*40)
-    print(classification_report(y_test, y_pred))
-    
-    print("\n" + "="*40)
-    print("--- PREVISÕES PARA SUAS MÚSICAS ---")
-    print("="*40)
-    resultados = df_test[['track_name', 'rotulo_emocao']].copy()
-    resultados['Previsao_Modelo'] = ['Feliz' if p == 1 else 'Triste' for p in y_pred]
-    resultados['Probabilidade_%'] = (y_proba * 100).round(2)
-    
-    print(resultados.head(15).to_string(index=False))
+    print()
+    print("Previsões")
+    print()
+    print(df_suas_musicas[['track_name', 'Previsao_Modelo', 'Certeza_%']].head(20).to_string(index=False))
 
     plt.figure(figsize=(10, 6))
+    sns.scatterplot(
+        x='energy', 
+        y='tempo', 
+        hue='Previsao_Modelo', 
+        palette={'Feliz': "#efff11", 'Triste': "#3700ff"},
+        data=df_suas_musicas, 
+        s=100, 
+        alpha=0.8,
+        edgecolor='black'
+    )
     
-    sns.scatterplot(x='energy', y='emotion', data=df_model, color='black', alpha=0.5, label='Dados Reais')
-    
-    sns.regplot(x='energy', y='emotion', data=df_model, logistic=True, ci=None, 
-                scatter=False, color='red', line_kws={'label': 'Curva de Probabilidade (Modelo)'})
-    
-    plt.title('Regressão Logística: Probabilidade de ser "Feliz" baseada na Energia', fontsize=14)
-    plt.ylabel('Probabilidade (0=Triste, 1=Feliz)', fontsize=12)
-    plt.xlabel('Energy (Energia da Música)', fontsize=12)
-    plt.yticks([0, 0.5, 1], ['0% (Triste)', '50% (Dúvida)', '100% (Feliz)'])
-    plt.legend()
-    plt.grid(True, alpha=0.3)
+    plt.title('Análise: Energia vs BPM (Tempo)', fontsize=14, fontweight='bold')
+    plt.xlabel('Energia da Música', fontsize=12)
+    plt.ylabel('BPM (Batidas por Minuto)', fontsize=12)
+    plt.grid(True, linestyle='--', alpha=0.5)
+    plt.legend(title='Previsão')
+    plt.tight_layout()
     plt.show()
 
 else:
-    print("Poucas músicas encontradas. Aumente ainda mais o .head() ou verifique os nomes.")
+    print("Nenhuma música bateu com as músicas do dataset.")
