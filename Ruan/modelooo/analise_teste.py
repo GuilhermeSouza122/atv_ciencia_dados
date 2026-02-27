@@ -28,7 +28,7 @@ y = df_model['emotion']
 #  70%  treino 30%  teste
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
-print("Treinando Inteligência Artificial (Random Forest)... Isso pode levar alguns segundos.")
+print("Treino da Inteligência Artificial (Random Forest).")
 # 100 árvores de decisão
 modelo_rf = RandomForestClassifier(n_estimators=100, random_state=42, n_jobs=-1)
 modelo_rf.fit(X_train, y_train)
@@ -36,7 +36,7 @@ modelo_rf.fit(X_train, y_train)
 y_pred_global = modelo_rf.predict(X_test)
 
 print()
-print("Desempenho do Modelo no Dataset Global")
+print("Desempenho do Modelo no Dataset")
 print()
 print(classification_report(y_test, y_pred_global))
 print(f"Acurácia Geral do Modelo: {accuracy_score(y_test, y_pred_global)*100:.2f}%")
@@ -98,6 +98,29 @@ if len(df_suas_musicas) > 0:
     plt.legend(title='Previsão')
     plt.tight_layout()
     plt.show()
+    #para prosseguir quando rodar o código fechar o gráfico, ele fica preso no gráfico até ele ser fechado
 
 else:
     print("Nenhuma música bateu com as músicas do dataset.")
+
+
+#Feature Importance - O que a IA considera mais importante para classificar uma música como feliz ou triste?
+print("\nCalculando a Importância das Variáveis.")
+
+importancias = modelo_rf.feature_importances_
+
+df_import = pd.DataFrame({'Feature': features, 'Importancia': importancias})
+df_import = df_import.sort_values(by='Importancia', ascending=False)
+
+print()
+print("Feature Importance")
+print()
+print(df_import.to_string(index=False))
+plt.figure(figsize=(8, 5))
+sns.barplot(x='Importancia', y='Feature', data=df_import, palette='viridis')
+plt.title('O que a IA considera mais importante? (Feature Importance)', fontsize=14, fontweight='bold')
+plt.xlabel('Grau de Importância (0 a 1)', fontsize=12)
+plt.ylabel('Características da Música', fontsize=12)
+plt.grid(True, axis='x', linestyle='--', alpha=0.6)
+plt.tight_layout()
+plt.show()
