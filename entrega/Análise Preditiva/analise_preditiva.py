@@ -100,6 +100,26 @@ if len(df_suas_musicas) > 0:
     plt.show()
     #para prosseguir quando rodar o código fechar o gráfico, ele fica preso no gráfico até ele ser fechado
 
+    #grafico com danceability x energy, para mostrar a relação entre a capacidade de dança e a energia da música, que são características importantes para determinar o humor da música
+    plt.figure(figsize=(10, 6))
+    sns.scatterplot(
+        x='danceability', 
+        y='energy', 
+        hue='Previsao_Modelo', 
+        palette={'Feliz': "#efff11", 'Triste': "#3700ff"},
+        data=df_suas_musicas, 
+        s=100, 
+        alpha=0.8,
+        edgecolor='black'
+    )
+    plt.title('Análise: Danceability vs Energia da Música', fontsize=14, fontweight='bold')
+    plt.xlabel('Danceability da Música', fontsize=12)
+    plt.ylabel('Energia da Música', fontsize=12)
+    plt.grid(True, linestyle='--', alpha=0.5)
+    plt.legend(title='Previsão')
+    plt.tight_layout()
+    plt.show()
+
 else:
     print("Nenhuma música bateu com as músicas do dataset.")
 
